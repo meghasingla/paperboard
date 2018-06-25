@@ -171,7 +171,7 @@ text-justify: auto|inter-word|inter-character|none|initial|inherit;
 					<span class="icon-bar"></span>
 				</button>
 						<a class="navbar-brand" href="">
-							<h1 style="text-align: left;padding-left: 10px;padding-right: 20px;">Susmit Paper Boards &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</h1>
+							<h1 style="text-align: left;padding-left: 10px;padding-right: 20px;margin-top: 6px;">Susmit Paper Boards &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</h1>
 						</a>
 					</div>
 					<!--/.navbar-header-->
@@ -184,7 +184,7 @@ text-justify: auto|inter-word|inter-character|none|initial|inherit;
 								<li><a class="scroll" href="#about" >About</a></li>
 								<li><a class="scroll" href="#services">Our Products</a></li>
 								<li><a class="scroll" href="#processflow">Process Flow</a></li>
-								<li><a class="scroll" href="#gallery">Finished Goods</a></li>
+								<!--<li><a class="scroll" href="#gallery">Finished Goods</a></li>-->
 								<li><a class="scroll" href="#contact" >Contact</a></li>
 							</ul>
 						</nav>
@@ -875,8 +875,8 @@ Now we are engaged in the production of superior quality Poly Boards, Stiff Boar
 	</div>-->
 
 	<!--Gallery-->
-
-<!--Gallery-->
+<br>
+<!--Gallery
 <br><br><br>
     <div class="gallery" id="gallery">
         <div class="container">
@@ -1386,7 +1386,7 @@ Now we are engaged in the production of superior quality Poly Boards, Stiff Boar
 				<li><a class="scroll" href="#home">Home</a></li>
 				<li><a class="scroll" href="#about">About</a></li>
 				<li><a class="scroll" href="#services">Our Products</a></li>
-				<li><a class="scroll" href="#gallery">Finished Goods</a></li>
+				<!--<li><a class="scroll" href="#gallery">Finished Goods</a></li>-->
 				<li><a class="scroll" href="#contact">Contact</a></li>
 			</ul>
 		</nav>
