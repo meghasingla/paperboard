@@ -18,10 +18,14 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
 	<!--//metadata -->
 
     <title>Susmit Paper Boards</title>
+
     <link href="https://fonts.googleapis.com/css?family=Alegreya+Sans" rel="stylesheet">
     <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.6.3/css/font-awesome.min.css" type="text/css"/>
     <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css" integrity="sha384-BVYiiSIFeK1dGmJRAkycuHAHRg32OmUcww7on3RYdg4Va+PmSTsz/K68vbdEjh4u" crossorigin="anonymous">
 		<link href="//maxcdn.bootstrapcdn.com/bootstrap/3.3.0/css/bootstrap.min.css" rel="stylesheet" id="bootstrap-css">
+<script src="//maxcdn.bootstrapcdn.com/bootstrap/3.3.0/js/bootstrap.min.js"></script>
+<script src="//cdnjs.cloudflare.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
+<script src="//code.jquery.com/jquery-1.11.1.min.js"></script>
 <script src="//maxcdn.bootstrapcdn.com/bootstrap/3.3.0/js/bootstrap.min.js"></script>
 <script src="//code.jquery.com/jquery-1.11.1.min.js"></script>
 	<link href="css/bootstrap.css" rel="stylesheet" type="text/css" media="all" />
@@ -871,8 +875,184 @@ Now we are engaged in the production of superior quality Poly Boards, Stiff Boar
 	</div>-->
 
 	<!--Gallery-->
-	<div class="gallery" id="gallery">
-		<div class="container">
+
+<!--Gallery-->
+    <div class="gallery" id="gallery">
+        <div class="container">
+            <div class="w3-heading-all">
+                <h3>Raw Materials to Finished Goods</h3>
+            </div>
+                    <div class="gallery-grids">
+                        <div class="col-md-8 col-sm-8 ggd baner-top big wow fadeInRight animated" data-wow-delay=".5s">
+                            <a href="images/g1.jpg" class="b-link-stripe b-animate-go  swipebox">
+                                <div class="gal-spin-effect vertical ">
+                                    <img src="images/g1.jpg" alt=" " />
+                                    <div class="gal-text-box">
+                                        <div class="info-gal-con">
+                                            <h4>RECORD BOOK</h4>
+                                            <span class="separator"></span>
+                                            <p>We are betrothed in manufacturing and supplying a comprehensive collection of Record Book to the market. </p>
+                                            <span class="separator"></span>
+                                            
+                                        </div>
+                                    </div>
+                                </div>
+                            </a>
+                        </div>
+                        <div class="col-md-4 col-sm-4 ggd baner-top small wow fadeInLeft animated" data-wow-delay=".5s">
+                            <a href="images/g3.jpg" class="b-link-stripe b-animate-go  swipebox">
+                                <div class="gal-spin-effect vertical ">
+                                    <img src="images/g3.jpg" alt=" " />
+                                    <div class="gal-text-box">
+                                        <div class="info-gal-con">
+                                            <h4>Calender Template</h4>
+                                            <span class="separator"></span>
+                                            <p>We are providing a wide array of 'Calender'. These calenders are designed using premium grade basic material that is procured. </p>
+                                            <span class="separator"></span>
+                                            
+                                        </div>
+                                    </div>
+                                </div>
+                            </a>
+                        </div>
+                        <div class="col-md-4 col-sm-4 ggd baner-top small ban-mar wow fadeInUp animated" data-wow-delay=".5s">
+                            <a href="images/g2.jpg" class="b-link-stripe b-animate-go  swipebox">
+                                <div class="gal-spin-effect vertical ">
+                                    <img src="images/g2.jpg" alt=" " />
+                                    <div class="gal-text-box">
+                                        <div class="info-gal-con">
+                                            <h4>Cake Base</h4>
+                                            <span class="separator"></span>
+                                            <p>Manufactured with precision, our range is fabricated at our end by employing advanced machines and technology that are outfitted at our unit.</p>
+                                            <span class="separator"></span>
+                                            
+                                        </div>
+                                    </div>
+                                </div>
+                            </a>
+                        </div>
+                        <div class="col-md-8 col-sm-8 ggd baner-top big ban-mar wow fadeInDown animated" data-wow-delay=".5s">
+                            <a href="images/g5.jpg" class="b-link-stripe b-animate-go  swipebox">
+                                <div class="gal-spin-effect vertical ">
+                                    <img src="images/g5.jpg" alt=" " />
+                                    <div class="gal-text-box">
+                                        <div class="info-gal-con">
+                                            <h4>BOX FILE</h4>
+                                            <span class="separator"></span>
+                                            <p>Our company is engaged in manufacturing of Box File, Map Sheet, Office File, etc.</p>
+                                            <span class="separator"></span>
+                                            
+                                        </div>
+                                    </div>
+                                </div>
+                            </a>
+                        </div>
+                        <div class="col-md-4 col-sm-4 ggd baner-top three wow fadeInLeft animated gap-w3" data-wow-delay=".5s">
+                            <a href="images/g4.jpg" class="b-link-stripe b-animate-go  swipebox">
+                                <div class="gal-spin-effect vertical ">
+                                    <img src="images/g4.jpg" alt=" " />
+                                    <div class="gal-text-box">
+                                        <div class="info-gal-con">
+                                            <h4>DAILY CALENDER</h4>
+                                            <span class="separator"></span>
+                                            <p>These unique calendars are available in multitude of colors, attractive designs and unique patters.</p>
+                                            <span class="separator"></span>
+                                            
+                                        </div>
+                                    </div>
+                                </div>
+                            </a>
+                    </div>
+                    <div class="col-md-4 col-sm-4 ggd baner-top three wow fadeInLeft animated" data-wow-delay=".5s">
+                            <a href="images/g6.jpg" class="b-link-stripe b-animate-go  swipebox">
+                                <div class="gal-spin-effect vertical ">
+                                    <img src="images/g6.jpg" alt=" " />
+                                    <div class="gal-text-box">
+                                        <div class="info-gal-con">
+                                            <h4>KRAFT SHEET</h4>
+                                            <span class="separator"></span>
+                                            <p>We emphasize on the quality offered and for the same, we use optimum quality raw materials obtained from our reliable and trustworthy vendors. </p>
+                                            <span class="separator"></span>
+                                            
+                                        </div>
+                                    </div>
+                                </div>
+                            </a>
+                        </div>
+                        <div class="col-md-4 col-sm-4 ggd baner-top three thre wow fadeInLeft animated" data-wow-delay=".5s">
+                            <a href="images/g7.jpg" class="b-link-stripe b-animate-go  swipebox">
+                                <div class="gal-spin-effect vertical ">
+                                    <img src="images/g7.jpg" alt=" " />
+                                    <div class="gal-text-box">
+                                        <div class="info-gal-con">
+                                            <h4>DIARY</h4>
+                                            <span class="separator"></span>
+                                            <p>We are the leading manufacturer and supplier of Diary.We obligated to meet the quality standards as per the industry norms.</p>
+                                            <span class="separator"></span>
+                                            
+                                        </div>
+                                    </div>
+                                </div>
+                            </a>
+                        </div>
+
+                        <div class="col-md-4 col-sm-4 ggd baner-top three thre wow fadeInLeft animated" data-wow-delay=".5s">
+                            <a href="images/j.jpg" class="b-link-stripe b-animate-go  swipebox">
+                                <div class="gal-spin-effect vertical ">
+                                    <img src="images/j.jpg" alt=" " />
+                                    <div class="gal-text-box">
+                                        <div class="info-gal-con">
+                                            <h4>JEWEL BOX</h4>
+                                            <span class="separator"></span>
+                                            <p> It is prepared by skilled people. </p>
+                                            <span class="separator"></span>
+                                            
+                                        </div>
+                                    </div>
+                                </div>
+                            </a>
+                        </div>
+
+                        <div class="col-md-4 col-sm-4 ggd baner-top three thre wow fadeInLeft animated" data-wow-delay=".5s">
+                            <a href="images/gi.jpg" class="b-link-stripe b-animate-go  swipebox">
+                                <div class="gal-spin-effect vertical ">
+                                    <img src="images/gi.jpg" alt=" " />
+                                    <div class="gal-text-box">
+                                        <div class="info-gal-con">
+                                            <h4>Gift Box</h4>
+                                            <span class="separator"></span>
+                                            <p>We are the leading manufacturer and supplier of Gift Box.We obligated to meet the quality standards as per the industry norms.</p>
+                                            <span class="separator"></span>
+                                            
+                                        </div>
+                                    </div>
+                                </div>
+                            </a>
+                        </div>
+
+                    <div class="col-md-4 col-sm-4 ggd baner-top three thre wow fadeInLeft animated" data-wow-delay=".5s">
+                            <a href="images/gf1.jpg" class="b-link-stripe b-animate-go  swipebox">
+                                <div class="gal-spin-effect vertical ">
+                                    <img src="images/gf1.jpg" alt=" " />
+                                    <div class="gal-text-box">
+                                        <div class="info-gal-con">
+                                            <h4>Gift Boxes</h4>
+                                            <span class="separator"></span>
+                                            <p>These products are highly praised in the market owing to their tear resistance, moisture resistance, attractive design, glossy finish and waterproof nature.</p>
+                                            <span class="separator"></span>
+                                            
+                                        </div>
+                                    </div>
+                                </div>
+                            </a>
+                        </div>
+                        <div class="clearfix"> </div>
+                    </div>
+                </div>
+        </div>
+    <!-- //gallery -->
+
+	<!--	<div class="container">
 			<div class="w3-heading-all">
 				<h3>Raw Materials to Finished Goods</h3>
 			</div>
@@ -1044,7 +1224,11 @@ Now we are engaged in the production of superior quality Poly Boards, Stiff Boar
 					</div>
 				</div>
 		</div>
-	<!-- //gallery -->
+	<!-- //gallery 
+	
+<!------ Include the above in your HEAD tag ---------->
+
+<
 <!-- stats -->
 	<div class="stats" id="stats">
 		<div class="container">
@@ -1340,6 +1524,7 @@ fit: true
 			});
 		});
 	</script>
+	
 	<!-- //FlexSlider-JavaScript -->
 	<!-- stats -->
 	<script src="js/jquery.waypoints.min.js"></script>
@@ -1347,6 +1532,17 @@ fit: true
 	<script>
 		$('.counter').countUp();
 	</script>
+
+<script>
+$(document).ready(function(){
+    $(".fancybox").fancybox({
+        openEffect: "none",
+        closeEffect: "none"
+    });
+});
+  </script> 
+  
+
 	<!-- //stats -->
 </body>
 

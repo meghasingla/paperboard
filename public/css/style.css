@@ -910,59 +910,9 @@ ul.some_agile_facts label {
 
 /*-- //grid_info --*/
 /*-- /services --*/ 
-.welcome {
-    background: url(../images/s3.jpg)no-repeat center;
-    background-size: cover;
-}
-.agileits-title {
-    text-align: center;
-}
 
-.agileits-welcome-info P {
-    font-size: 1em;
-    color: #ffffffd6;
-    line-height: 1.8em;  
-} 
-.welcomerow-agileinfo {
-    text-align: center;
-}
-.welcomerow-agileinfo h5{
-    font-size: 1.5em;
-    color:#02bbd2;
-    margin-bottom: 1em;
-    font-weight: 300;
-    letter-spacing: 3px;
-}
-.w3l-welcome-grid {
-    text-align: center;
-    padding: 1em;
-    border: 1px solid #fff; 
-	-webkit-transition:.5s all;
-	-moz-transition:.5s all;
-	-o-transition:.5s all;
-	-ms-transition:.5s all;
-	transition:.5s all;
-}
-.agileits-welcome-info h4 ,.services-grids h4{
-    color: #fff;
-    font-size: 1.5em;
-    margin: 0.8em 0;
-    letter-spacing: 1px;
-    text-transform: capitalize;
-	-webkit-transition:.5s all;
-	-moz-transition:.5s all;
-	-o-transition:.5s all;
-	-ms-transition:.5s all;
-	transition:.5s all;
-} 
-.w3l-welcome-grid:hover {
-    border-color: #efaa15;
-}
-.w3l-welcome-grid:hover .agileits-welcome-info h4 {
-    color:#efaa15;
-}
-/*-- //services --*/  
 /*--gallery--*/
+
 .gallery h3.tittle{
 	text-align:center;
 }
