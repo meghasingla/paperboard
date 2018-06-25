@@ -19,7 +19,7 @@
                 <h1>Dear User,</h1>
                 <p style="font-size:150% ;text-align:left;">Welcome to the SUSMIT PAPER BOARD family!</p>
                 <p style="font-size:150% ;text-align:left;">
-                    Someone registered  with this Email id:-<b>{{{ $email }}}</b> <br>
+                    Someone registered  with this Email id:-<b>{{{ $Email }}}</b> <br>
 
                 
                 

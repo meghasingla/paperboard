@@ -26,7 +26,7 @@
                
                 <p style="font-size:150%;">
 
-                    Someone registered with the following details:<br>Name - <b>{{ $name }}<br></b> Email - <b>{{ $Email }}<br></b> Subject- <b>{{ $subject }}<br></b>
+                    Someone registered with the following details:<br>Name - <b>{{ $name }}</b><br>Email - <b>{{ $Email }}</b><br>Subject - <b>{{ $subject }}</b><br>Message - <b>{{ $messageBody }}</b>
                 </p>
                
                 
