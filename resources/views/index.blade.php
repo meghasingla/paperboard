@@ -877,6 +877,7 @@ Now we are engaged in the production of superior quality Poly Boards, Stiff Boar
 	<!--Gallery-->
 
 <!--Gallery-->
+<br><br><br>
     <div class="gallery" id="gallery">
         <div class="container">
             <div class="w3-heading-all">
@@ -1307,7 +1308,7 @@ Now we are engaged in the production of superior quality Poly Boards, Stiff Boar
 </div>
 			<div class="clearfix"> </div>
  //Clients -->
-<!-- /contact us -->
+<!-- /contact us --><br>
 <div class="contact-w3-agileits w3ls-section jarallax" id="contact">
 		<div class="container">
 		<div class="w3-heading-all">
@@ -1375,6 +1376,7 @@ Now we are engaged in the production of superior quality Poly Boards, Stiff Boar
 			<div class="clearfix"></div>
 		</div>
 	</div>
+    <br><br>
 <!-- //contact us -->
 <!--footer-->
 
