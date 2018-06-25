@@ -420,7 +420,7 @@ text-justify: auto|inter-word|inter-character|none|initial|inherit;
 	<!--<div class="w3-heading-all">
 				<h3>Susmit Paper Boards</h3>
 			</div>-->
-		<br><br>
+		<br><br><br><br><br>
 		<div class="aboutus-area">
     <div class="container">
         <div class="row" >
@@ -444,7 +444,7 @@ Now we are engaged in the production of superior quality Poly Boards, Stiff Boar
     </div>
 </div>
 </div>
-
+<br><br>
                     <div class="banner-bottom" id="about">
 		<div class="container">
 	<div class="w3-heading-all">
