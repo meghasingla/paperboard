@@ -180,7 +180,7 @@ text-justify: auto|inter-word|inter-character|none|initial|inherit;
 					<div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1" style="padding: 10px;margin: 0px;text-align: left;float: right; padding-right: -25px;padding-left: -20px;">
 						<nav>
 							<ul class="nav navbar-nav">
-								<li><a class="active" href="index.html">Home</a></li>
+								<li><a class="active" href="#">Home</a></li>
 								<li><a class="scroll" href="#about" >About</a></li>
 								<li><a class="scroll" href="#services">Our Products</a></li>
 								<li><a class="scroll" href="#processflow">Process Flow</a></li>
@@ -217,7 +217,7 @@ text-justify: auto|inter-word|inter-character|none|initial|inherit;
 			<div class="item item2">
 				<div class="container">
 					<div class="carousel-caption">
-						<h3>We are the new version of <span>Sri Murugan </span>paper boards</h3>
+						<h3>We are the new version of <span> Sri Murugan </span>paper boards</h3>
 						<p>Leading manufacturer of all kind of paper boards</p>
 						
 					</div>
@@ -433,7 +433,7 @@ text-justify: auto|inter-word|inter-character|none|initial|inherit;
                 
                     <!--<h1>Susmit Paper <span>Boards</span></h1>
                     <h4>Your reliable business partner for all paper board requirements.</h4><br>-->
-                    <p style="font-size: 17px;">Susmit Paper Boards is a new version of  <span> Sri Murugan paper boards</span>, a leading manufacturer of all kind of paper boards serving  the market for last three decades under the  supervision <br>of &nbsp;<span>Mr. Karthik Muckharji </span>,  &nbsp;&nbsp;a well experienced professional in the industry for more than <br>50 years for all kind of Paper Board manufacturing and machinery erection all over India. Now Susmit Paper Board is driven under the leadership of <span>&nbsp;&nbsp;Mr. Suresh P Nair&nbsp;&nbsp;</span>,&nbsp; a&nbsp; well experienced Team Player with more than&nbsp;&nbsp;<span> 22 years</span>&nbsp;&nbsp; of experience in India and abroad with different manufacturing and Trading establishments with capable experienced hands<span> Jayan Muckharji and Ajayan Muckharji </span>, both are professional successors to this industry. 
+                    <p style="font-size: 17px;">Susmit Paper Boards is a new version of &nbsp; <span> Sri Murugan paper boards</span>, a leading manufacturer of all kind of paper boards serving  the market for last three decades under the  supervision <br>of &nbsp;<span>Mr. Karthik Muckharji </span>,  &nbsp;&nbsp;a well experienced professional in the industry for more than <br>50 years for all kind of Paper Board manufacturing and machinery erection all over India. Now Susmit Paper Board is driven under the leadership of <span>&nbsp;Mr. Suresh P Nair&nbsp;</span>,&nbsp; a&nbsp; well experienced Team Player with more than&nbsp;&nbsp;<span> 22 years</span>&nbsp; of experience in India and abroad with different manufacturing and Trading establishments with capable experienced hands &nbsp;<span> Jayan Muckharji and Ajayan Muckharji </span>, both are professional successors to this industry. 
 Now we are engaged in the production of superior quality Poly Boards, Stiff Boards, File Boards and Duplex Boards extensively used as Raw material for Diary, Daily Calendars, Book Binding, Cake Base, Gift Box and Jewel Box for domestic and International market.The manufacturing process is 100% Eco Friendly using recycling scrap craft paper both imported and domestic
 
 </p>
@@ -688,12 +688,12 @@ Now we are engaged in the production of superior quality Poly Boards, Stiff Boar
           </div>
           <div class="timeline-panel">
             <div class="timeline-heading">
-              <h4>Step One</h4>
-              <h4 class="subheading">Raw Materials</h4>
+              <h4></h4>
+              <h4 class="subheading" style="font-size: 24px;">Raw Materials</h4>
             </div>
             <div class="timeline-body">
               <p class="text-muted">
-                we have been successful in catering to the requirements of our esteemed clients by offering quality
+             
               </p>
             </div>
           </div>
@@ -713,12 +713,12 @@ Now we are engaged in the production of superior quality Poly Boards, Stiff Boar
           <div class="timeline-panel">
             <div class="timeline-heading">
             	<br><br><br><br><br>
-              <h4>Step Two</h4>
-              <h4 class="subheading">Research & Development</h4>
+              <h4></h4>
+              <h4 class="subheading"  style="font-size: 24px;">Research & Development</h4>
             </div>
             <div class="timeline-body">
               <p class="text-muted">
-                Research Development encompasses a set of strategic, proactive, catalytic, and capacity-building activities 
+                
               </p>
             </div>
           </div>
@@ -739,12 +739,12 @@ Now we are engaged in the production of superior quality Poly Boards, Stiff Boar
           </div>
           <div class="timeline-panel">
             <div class="timeline-heading">
-              <h4>Step Three</h4>
-              <h4 class="subheading">Process</h4>
+              <h4></h4>
+              <h4 class="subheading"  style="font-size: 24px;">Process</h4>
             </div>
             <div class="timeline-body">
               <p class="text-muted">
-                It is characterized by accuracy, cost-effectiveness and timely record creation.
+                
               </p>
             </div>
          
@@ -758,14 +758,14 @@ Now we are engaged in the production of superior quality Poly Boards, Stiff Boar
           <div class="timeline-panel">
             <div class="timeline-heading">
             	<br><br><br><br><br>
-              <h4>Step Four</h4>
+              <h4></h4>
             
             
         </div>
-        <h4 class="subheading">Rewinding</h4>
+        <h4 class="subheading"  style="font-size: 24px;">Rewinding</h4>
             <div class="timeline-body">
               <p class="text-muted">
-                We are supported by a highly experienced team of factory trained professionals who render this  Rewinding.
+               
               </p>
             </div>
              </div>
@@ -779,13 +779,13 @@ Now we are engaged in the production of superior quality Poly Boards, Stiff Boar
             <img class="img-circle img-responsive" src="../images/packs.jpg" alt="">
           </div>
           <div class="timeline-panel">
-            <div class="timeline-heading">
-              <h4>Bonus Step</h4>
-              <h4 class="subheading">Accomplished Goods</h4>
+            <div class="timeline-heading"  >
+              <h4></h4>
+              <h4 class="subheading" style="font-size: 24px;">Accomplished Goods</h4>
             </div>
             <div class="timeline-body">
               <p class="text-muted">
-                Our products and packing are highly appreciated by clients .
+              
               </p>
             </div>
           </div>
@@ -1368,7 +1368,7 @@ Now we are engaged in the production of superior quality Poly Boards, Stiff Boar
 					<input type="text"  class="Email" name="Email" placeholder="Email" required=""><br>
 					<input type="text"  class="subject" name="subject" placeholder="Subject" required=""><br>
 					<!--<input type="textarea "style="padding: 75px;position: absolute;"  class="message" name="message" placeholder="message" required="">-->
-					<textarea placeholder="messageBody" style="width: 49%" required=""></textarea><br>
+					<textarea placeholder="Message" style="width: 49%" required=""></textarea><br>
 					<input type="submit" value="Send ">
 				</form>
 			</div>
