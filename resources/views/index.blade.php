@@ -272,14 +272,14 @@ text-justify: auto|inter-word|inter-character|none|initial|inherit;
                     <div class="front-content">
                         <i class="fa fa-trophy"></i>
 
-                        <h3 >SUSMIT PAPER BOARD</h3>
+                        <h3 >SUSMIT PAPER BOARDS</h3>
                     </div>
                 </div>
 
                 <div class="service-content" style="background-color:rgb(254,143,1); ">
                  <div class="colortext"  >	
                 	
-                    <h3 style="background-color: rgb(254,143,1);">SUSMIT PAPER BOARD</h3>
+                    <h3 style="background-color: rgb(254,143,1);">SUSMIT PAPER BOARDS</h3>
                     <p style="color: #fff;">We are driven under the leadership of Mr. Suresh P Nair , a well experienced Team player with more than 22 years of experience in India .</p></div>
                 </div>
             </div>
