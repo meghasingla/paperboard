@@ -18,6 +18,7 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
 	<!--//metadata -->
 
     <title>Susmit Paper Boards</title>
+
       <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/fancybox/3.2.5/jquery.fancybox.min.css"/>
 <link href="https://maxcdn.bootstrapcdn.com/font-awesome/4.2.0/css/font-awesome.min.css" rel="stylesheet">
 <link rel="stylesheet" href="css/style.css">
@@ -26,6 +27,11 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
     <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css" integrity="sha384-BVYiiSIFeK1dGmJRAkycuHAHRg32OmUcww7on3RYdg4Va+PmSTsz/K68vbdEjh4u" crossorigin="anonymous">
 		<link href="//maxcdn.bootstrapcdn.com/bootstrap/3.3.0/css/bootstrap.min.css" rel="stylesheet" id="bootstrap-css">
         <link href="//netdna.bootstrapcdn.com/bootstrap/3.0.0/css/bootstrap.min.css" rel="stylesheet" id="bootstrap-css">
+         <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.4/jquery.min.js"></script>
+<script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
+  <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
 <script src="//netdna.bootstrapcdn.com/bootstrap/3.0.0/js/bootstrap.min.js"></script>
 <script src="//code.jquery.com/jquery-1.11.1.min.js"></script>
 <script src="//maxcdn.bootstrapcdn.com/bootstrap/3.3.0/js/bootstrap.min.js"></script>
@@ -167,9 +173,12 @@ text-justify: auto|inter-word|inter-character|none|initial|inherit;
 }
 
 </style>
+
 	<div class="header" id="home">
 		<div class="content white">
 			<nav class="navbar navbar-default" role="navigation">
+                <nav class="navbar navbar-default navbar-fixed-top">
+
 				<div class="container">
 					<div class="navbar-header" >
 						<button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1">
@@ -197,12 +206,14 @@ text-justify: auto|inter-word|inter-character|none|initial|inherit;
 							</ul>
 						</nav>
 					</div>
-					<!--/.navbar-collapse-->
+					<!--/.navbar-collapse-
 					<!--/.navbar-->
 				</div>
 			</nav>
+       
 		</div>
 	</div>
+</nav>
 	<!-- banner -->
 	<div id="myCarousel" class="carousel slide" data-ride="carousel">
 		<!-- Indicators -->
@@ -909,7 +920,7 @@ Now we are engaged in the production of superior quality Poly Boards, Stiff Boar
                 <a class="fancybox" rel="ligthbox" href="images/s1.jpg">
                     <img class="img-responsive" alt="" src="images/s1.jpg" />
                     <div class='img-info'>
-                        <h4>Record Books</h4>
+                        <h4>Susmit Paper Boards</h4>
                         <p></p>
                     </div>
                 </a>
@@ -929,7 +940,7 @@ Now we are engaged in the production of superior quality Poly Boards, Stiff Boar
                  <a class="fancybox" rel="ligthbox" href="images/f1.jpg">
                     <img class="img-responsive" alt="" src="images/f1.jpg" />
                     <div class='img-info'>
-                        <h4>Susmit Paper Boards</h4>
+                        <h4>Record Books</h4>
                         <p></p>
                     </div>
                 </a>
@@ -939,7 +950,7 @@ Now we are engaged in the production of superior quality Poly Boards, Stiff Boar
                 <a class="fancybox" rel="ligthbox" href="images/s2.jpg">
                     <img class="img-responsive" alt="" src="images/s2.jpg" />
                     <div class='img-info'>
-                        <h4>Cake Base</h4>
+                        <h4>Susmit Paper Boards</h4>
                         <p></p>
                     </div>
                 </a>
@@ -960,7 +971,7 @@ Now we are engaged in the production of superior quality Poly Boards, Stiff Boar
                 <a class="fancybox" rel="ligthbox" href="images/f2.jpg">
                     <img class="img-responsive" alt="" src="images/f2.jpg" />
                     <div class='img-info'>
-                        <h4>Susmit Paper Boards</h4>
+                        <h4>Cake Base</h4>
                         <p></p>
                     </div>
                 </a>
@@ -970,7 +981,7 @@ Now we are engaged in the production of superior quality Poly Boards, Stiff Boar
                 <a class="fancybox" rel="ligthbox" href="images/s3.jpg">
                     <img class="img-responsive" alt="" src="images/s3.jpg" />
                     <div class='img-info'>
-                        <h4>Calender</h4>
+                        <h4>Susmit Paper Boards</h4>
                         <p></p>
                     </div>
                 </a>
@@ -989,7 +1000,7 @@ Now we are engaged in the production of superior quality Poly Boards, Stiff Boar
                 <a class="fancybox" rel="ligthbox" href="images/f3.jpg">
                     <img class="img-responsive" alt="" src="images/f3.jpg" />
                     <div class='img-info'>
-                        <h4>Susmit Paper Boards</h4>
+                        <h4>Calender Template</h4>
                         <p></p>
                     </div>
                 </a>
@@ -1000,7 +1011,7 @@ Now we are engaged in the production of superior quality Poly Boards, Stiff Boar
                 <a class="fancybox" rel="ligthbox" href="images/s4.jpg">
                     <img class="img-responsive" alt="" src="images/s4.jpg" />
                     <div class='img-info'>
-                        <h4>Diary</h4>
+                        <h4>Susmit Paper Boards</h4>
                         <p></p>
                     </div>
                 </a>
@@ -1020,7 +1031,7 @@ Now we are engaged in the production of superior quality Poly Boards, Stiff Boar
                 <a class="fancybox" rel="ligthbox" href="images/f4.jpg">
                     <img class="img-responsive" alt="" src="images/f4.jpg" />
                     <div class='img-info'>
-                        <h4>Susmit Paper Boards</h4>
+                        <h4>Diary</h4>
                         <p></p>
                     </div>
                 </a>
@@ -1029,7 +1040,7 @@ Now we are engaged in the production of superior quality Poly Boards, Stiff Boar
                 <a class="fancybox" rel="ligthbox" href="images/s5.jpg">
                     <img class="img-responsive" alt="" src="images/s5.jpg" />
                     <div class='img-info'>
-                        <h4>Wall Calender</h4>
+                        <h4>Susmit Paper Boards</h4>
                         <p></p>
                     </div>
                 </a>
