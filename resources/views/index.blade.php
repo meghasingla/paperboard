@@ -18,11 +18,16 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
 	<!--//metadata -->
 
     <title>Susmit Paper Boards</title>
-
+      <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/fancybox/3.2.5/jquery.fancybox.min.css"/>
+<link href="https://maxcdn.bootstrapcdn.com/font-awesome/4.2.0/css/font-awesome.min.css" rel="stylesheet">
+<link rel="stylesheet" href="css/style.css">
     <link href="https://fonts.googleapis.com/css?family=Alegreya+Sans" rel="stylesheet">
     <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.6.3/css/font-awesome.min.css" type="text/css"/>
     <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css" integrity="sha384-BVYiiSIFeK1dGmJRAkycuHAHRg32OmUcww7on3RYdg4Va+PmSTsz/K68vbdEjh4u" crossorigin="anonymous">
 		<link href="//maxcdn.bootstrapcdn.com/bootstrap/3.3.0/css/bootstrap.min.css" rel="stylesheet" id="bootstrap-css">
+        <link href="//netdna.bootstrapcdn.com/bootstrap/3.0.0/css/bootstrap.min.css" rel="stylesheet" id="bootstrap-css">
+<script src="//netdna.bootstrapcdn.com/bootstrap/3.0.0/js/bootstrap.min.js"></script>
+<script src="//code.jquery.com/jquery-1.11.1.min.js"></script>
 <script src="//maxcdn.bootstrapcdn.com/bootstrap/3.3.0/js/bootstrap.min.js"></script>
 <script src="//cdnjs.cloudflare.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
 <script src="//code.jquery.com/jquery-1.11.1.min.js"></script>
@@ -45,6 +50,9 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
 <body>
 	<!-- header -->
 	<style>
+    
+
+/*  end gallery */
 	body {
     font-family: 'Roboto';font-size: 16px;
 }
@@ -184,7 +192,7 @@ text-justify: auto|inter-word|inter-character|none|initial|inherit;
 								<li><a class="scroll" href="#about" >About</a></li>
 								<li><a class="scroll" href="#services">Our Products</a></li>
 								<li><a class="scroll" href="#processflow">Process Flow</a></li>
-								<!--<li><a class="scroll" href="#gallery">Finished Goods</a></li>-->
+								<li><a class="scroll" href="#gallery">Finished Goods</a></li>
 								<li><a class="scroll" href="#contact" >Contact</a></li>
 							</ul>
 						</nav>
@@ -426,13 +434,13 @@ text-justify: auto|inter-word|inter-character|none|initial|inherit;
         <div class="row" >
             <div class="col-xs-12">
             <div class="col-md-4 col-sm-6 col-xs-12" >    
-                <div class="aboutus-image float-left hidden-sm"><img src="images/abt.jpg" alt="" style="margin-top: -90px;"></div>
+                <br><br><div class="aboutus-image float-left hidden-sm"><img src="images/abt.jpg" alt="" style="margin-top: -90px;"></div>
                 </div>
             <div class="col-md-8 col-sm-6 col-xs-12">
                 <div class="aboutus-content " style="margin-top: -90px;">
-                
-                    <!--<h1>Susmit Paper <span>Boards</span></h1>
-                    <h4>Your reliable business partner for all paper board requirements.</h4><br>-->
+              
+                    <h1> <span></span></h1>
+                    <h4></h4><br><br>&nbsp;&nbsp;
                     <p style="font-size: 17px;">Susmit Paper Boards is a new version of &nbsp; <span> Sri Murugan paper boards</span>, a leading manufacturer of all kind of paper boards serving  the market for last three decades under the  supervision <br>of &nbsp;<span>Mr. Karthik Muckharji </span>,  &nbsp;&nbsp;a well experienced professional in the industry for more than <br>50 years for all kind of Paper Board manufacturing and machinery erection all over India. Now Susmit Paper Board is driven under the leadership of <span>&nbsp;Mr. Suresh P Nair&nbsp;</span>,&nbsp; a&nbsp; well experienced Team Player with more than&nbsp;&nbsp;<span> 22 years</span>&nbsp; of experience in India and abroad with different manufacturing and Trading establishments with capable experienced hands &nbsp;<span> Jayan Muckharji and Ajayan Muckharji </span>, both are professional successors to this industry. 
 Now we are engaged in the production of superior quality Poly Boards, Stiff Boards, File Boards and Duplex Boards extensively used as Raw material for Diary, Daily Calendars, Book Binding, Cake Base, Gift Box and Jewel Box for domestic and International market.The manufacturing process is 100% Eco Friendly using recycling scrap craft paper both imported and domestic
 
@@ -875,15 +883,339 @@ Now we are engaged in the production of superior quality Poly Boards, Stiff Boar
 	</div>-->
 
 	<!--Gallery-->
-<br>
-<!--Gallery
+
+<section class="portfolio-w3ls" id="gallery">
+       <center>  <h2 class="title-w3-agileits title-black-wthree" style="color:#3d3d3d;font-size: 2em;font-weight: 400px;">Our Gallery</h2></center>
+   
+
+<section class="portfolio" id="portfolio">
+    <div class="container-fluid">
+        <div class="row">
+
+            <!--<div class="gallery col-lg-12 col-md-12 col-sm-12 col-xs-12">
+                <h1 class="gallery-title">Gallery</h1>
+            </div>-->
+
+            <div align="center">
+                <button class="filter-button" data-filter="all">All</button>
+                <button class="filter-button" data-filter="category1">Our Factory</button>
+                <button class="filter-button" data-filter="category2">Our Products</button>
+                <button class="filter-button" data-filter="category3">Finished Goods</button>
+            </div>
+            
+            <br/>
+
+            <div class="gallery_product col-sm-3 col-xs-6 filter category1">
+                <a class="fancybox" rel="ligthbox" href="images/s1.jpg">
+                    <img class="img-responsive" alt="" src="images/s1.jpg" />
+                    <div class='img-info'>
+                        <h4>Record Books</h4>
+                        <p></p>
+                    </div>
+                </a>
+            </div>
+
+            <div class="gallery_product col-sm-3 col-xs-6 filter category2">
+                <a class="fancybox" rel="ligthbox" href="images/b1.jpg">
+                    <img class="img-responsive" alt="" src="images/b1.jpg" />
+                    <div class='img-info'>
+                        <h4>Color Board</h4>
+                        <p></p>
+                    </div>
+                </a>
+            </div>
+
+            <div class="gallery_product col-sm-3 col-xs-6 filter category3">
+                 <a class="fancybox" rel="ligthbox" href="images/f1.jpg">
+                    <img class="img-responsive" alt="" src="images/f1.jpg" />
+                    <div class='img-info'>
+                        <h4>Susmit Paper Boards</h4>
+                        <p></p>
+                    </div>
+                </a>
+            </div>
+
+            <div class="gallery_product col-sm-3 col-xs-6 filter category1">
+                <a class="fancybox" rel="ligthbox" href="images/s2.jpg">
+                    <img class="img-responsive" alt="" src="images/s2.jpg" />
+                    <div class='img-info'>
+                        <h4>Cake Base</h4>
+                        <p></p>
+                    </div>
+                </a>
+            </div>
+              <div class="gallery_product col-sm-3 col-xs-6 filter category2">
+                <a class="fancybox" rel="ligthbox" href="images/b2.jpg">
+                    <img class="img-responsive" alt="" src="images/b2.jpg" />
+                    <div class='img-info'>
+                        <h4>Classic Board</h4>
+                        <p></p>
+                    </div>
+                </a>
+            </div>
+
+          
+
+            <div class="gallery_product col-sm-3 col-xs-6 filter category3">
+                <a class="fancybox" rel="ligthbox" href="images/f2.jpg">
+                    <img class="img-responsive" alt="" src="images/f2.jpg" />
+                    <div class='img-info'>
+                        <h4>Susmit Paper Boards</h4>
+                        <p></p>
+                    </div>
+                </a>
+            </div>
+
+            <div class="gallery_product col-sm-3 col-xs-6 filter category1">
+                <a class="fancybox" rel="ligthbox" href="images/s3.jpg">
+                    <img class="img-responsive" alt="" src="images/s3.jpg" />
+                    <div class='img-info'>
+                        <h4>Calender</h4>
+                        <p></p>
+                    </div>
+                </a>
+            </div>
+
+            <div class="gallery_product col-sm-3 col-xs-6 filter category2">
+                <a class="fancybox" rel="ligthbox" href="images/b3.jpg">
+                    <img class="img-responsive" alt="" src="images/b3.jpg" />
+                    <div class='img-info'>
+                        <h4>Mill Board</h4>
+                        <p></p>
+                    </div>
+                </a>
+            </div>
+               <div class="gallery_product col-sm-3 col-xs-6 filter category3">
+                <a class="fancybox" rel="ligthbox" href="images/f3.jpg">
+                    <img class="img-responsive" alt="" src="images/f3.jpg" />
+                    <div class='img-info'>
+                        <h4>Susmit Paper Boards</h4>
+                        <p></p>
+                    </div>
+                </a>
+            </div>
+           
+
+            <div class="gallery_product col-sm-3 col-xs-6 filter category1">
+                <a class="fancybox" rel="ligthbox" href="images/s4.jpg">
+                    <img class="img-responsive" alt="" src="images/s4.jpg" />
+                    <div class='img-info'>
+                        <h4>Diary</h4>
+                        <p></p>
+                    </div>
+                </a>
+            </div>
+
+            <div class="gallery_product col-sm-3 col-xs-6 filter category2">
+                <a class="fancybox" rel="ligthbox" href="images/b4.jpg">
+                    <img class="img-responsive" alt="" src="images/b4.jpg" />
+                    <div class='img-info'>
+                        <h4>Grey Board</h4>
+                        <p></p>
+                    </div>
+                </a>
+            </div>
+
+            <div class="gallery_product col-sm-3 col-xs-6 filter category3">
+                <a class="fancybox" rel="ligthbox" href="images/f4.jpg">
+                    <img class="img-responsive" alt="" src="images/f4.jpg" />
+                    <div class='img-info'>
+                        <h4>Susmit Paper Boards</h4>
+                        <p></p>
+                    </div>
+                </a>
+            </div>
+              <div class="gallery_product col-sm-3 col-xs-6 filter category1">
+                <a class="fancybox" rel="ligthbox" href="images/s5.jpg">
+                    <img class="img-responsive" alt="" src="images/s5.jpg" />
+                    <div class='img-info'>
+                        <h4>Wall Calender</h4>
+                        <p></p>
+                    </div>
+                </a>
+            </div>
+
+            <div class="gallery_product col-sm-3 col-xs-6 filter category2">
+                <a class="fancybox" rel="ligthbox" href="images/b5.jpg">
+                    <img class="img-responsive" alt="" src="images/b5.jpg" />
+                    <div class='img-info'>
+                        <h4>Duplex Board</h4>
+                        <p></p>
+                    </div>
+                </a>
+            </div>
+
+           <!-- <div class="gallery_product col-sm-3 col-xs-6 filter category3">
+                <a class="fancybox" rel="ligthbox" href="">
+                    <img class="img-responsive" alt="" src="" />
+                    <div class='img-info'>
+                        <h4>Shubham Hotel</h4>
+                        <p></p>
+                    </div>
+                </a>
+            </div>-->
+            <div class="gallery_product col-sm-3 col-xs-6 filter category3">
+                <a class="fancybox" rel="ligthbox" href="images/f6.jpg">
+                    <img class="img-responsive" alt="" src="images/f6.jpg" />
+                    <div class='img-info'>
+                        <h4>Box File </h4>
+                        <p></p>
+                    </div>
+                </a>
+            </div>
+
+            <div class="gallery_product col-sm-3 col-xs-6 filter category2">
+                <a class="fancybox" rel="ligthbox" href="images/b6.jpg">
+                    <img class="img-responsive" alt="" src="images/b6.jpg" />
+                    <div class='img-info'>
+                        <h4>Stiff Board</h4>
+                        <p></p>
+                    </div>
+                </a>
+            </div>
+
+        <!--    <div class="gallery_product col-sm-3 col-xs-6 filter category3">
+                <a class="fancybox" rel="ligthbox" href="">
+                    <img class="img-responsive" alt="" src="" />
+                    <div class='img-info'>
+                        <h4>Shubham Hotel</h4>
+                        <p></p>
+                    </div>
+                </a>
+            </div>-->
+                <div class="gallery_product col-sm-3 col-xs-6 filter category3">
+                <a class="fancybox" rel="ligthbox" href="images/f7.jpg">
+                    <img class="img-responsive" alt="" src="images/f7.jpg" />
+                    <div class='img-info'>
+                        <h4>Gift Boxes(In all Size available)</h4>
+                        <p></p>
+                    </div>
+                </a>
+            </div>
+             <div class="gallery_product col-sm-3 col-xs-6 filter category3">
+                <a class="fancybox" rel="ligthbox" href="images/f8.jpg">
+                    <img class="img-responsive" alt="" src="images/f8.jpg" />
+                    <div class='img-info'>
+                        <h4>Gift Box</h4>
+                        <p></p>
+                    </div>
+                </a>
+            </div>
+             <div class="gallery_product col-sm-3 col-xs-6 filter category3">
+                <a class="fancybox" rel="ligthbox" href="images/f9.jpg">
+                    <img class="img-responsive" alt="" src="images/f9.jpg" />
+                    <div class='img-info'>
+                        <h4>Jewel Box</h4>
+                        <p></p>
+                    </div>
+                </a>
+            </div>
+              <div class="gallery_product col-sm-3 col-xs-6 filter category2">
+                <a class="fancybox" rel="ligthbox" href="images/b7.jpg">
+                    <img class="img-responsive" alt="" src="images/b7.jpg" />
+                    <div class='img-info'>
+                        <h4>Kappa Board</h4>
+                        <p></p>
+                    </div>
+                </a>
+            </div>
+            
+            <!-- <div class="gallery_product col-sm-3 col-xs-6 filter category3">
+                <a class="fancybox" rel="ligthbox" href="images/s5.jpg">
+                    <img class="img-responsive" alt="" src="images/s5.jpg" />
+                    <div class='img-info'>
+                        <h4>Susmit Paper Boards</h4>
+                        <p></p>
+                    </div>
+                </a>
+            </div>-->
+        </div>
+    </div>
+</section>
+
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/fancybox/3.2.5/jquery.fancybox.min.js"></script>
+    <script src="js/script.js"></script>
+
+<!--
 <br><br><br>
     <div class="gallery" id="gallery">
         <div class="container">
             <div class="w3-heading-all">
                 <h3>Raw Materials to Finished Goods</h3>
             </div>
-                    <div class="gallery-grids">
+            <html>
+<head>
+  <base href="https://www.w3schools.com/images/" target="_blank">
+</head>
+<body>
+
+<section id="portfolio-container" class="padding-60">
+         <div class="container">
+             <div class="row">
+             <div class="col-md-12">
+              <div class="text-center">
+               <h1 class="padding-b-25">PORTFOLIO</h1>
+              </div>
+             </div>
+            </div>
+          <div class="row">
+            <div class="text-center">
+              <div class="toolbar mb2 mt2 padding-b-25">
+              <button class="btn fil-cat active" href="" data-rel="all">All</button>
+              <button class="btn fil-cat" data-rel="web">photography</button>
+              <button class="btn fil-cat" data-rel="flyers">flyers</button>
+              <button class="btn fil-cat" data-rel="bcards">corpporate</button>
+              <button class="btn fil-cat" data-rel="advertising">advertising</button>
+              </div> 
+            </div> 
+ 
+            <div style="clear:both;"></div>   
+            <div id="portfolio">
+            <div class="tile scale-anm web all advertising">
+            <img src="https://lh3.googleusercontent.com/-ndZJOGgvYQ4/WM1ZI8dH86I/AAAAAAAADeo/l67ZqZnRUO8QXIQi38bEXuxqHfVX0TV2gCJoC/w424-h318-n-rw/thumbnail8.jpg" alt="" />
+            </div>
+            <div class="tile scale-anm bcards all">
+            <img src="https://lh3.googleusercontent.com/-ojLI116-Mxk/WM1ZIwdnuwI/AAAAAAAADeo/4K6VpwIPSfgsmlXJB5o0N8scuI3iW4OpwCJoC/w424-h318-n-rw/thumbnail6.jpg" alt="" />
+            </div>
+            <div class="tile scale-anm web all">
+            <img src="https://lh3.googleusercontent.com/-TrK1csbtHRs/WM1ZI1SIUNI/AAAAAAAADeo/OkiUjuad6skWl9ugxbiIA_436OwsWKBNgCJoC/w424-h318-n-rw/thumbnail3.jpg" alt="" />
+            </div>
+            <div class="tile scale-anm web all">
+            <img src="https://lh3.googleusercontent.com/-UKfIhJSBW9M/WM1ZI8ou34I/AAAAAAAADeo/vlLGY29147AYLaxUW29ZXJlun115BhkhgCJoC/w424-h318-n-rw/thumbnail7.jpg" alt="" />
+            </div>
+            <div class="tile scale-anm  advertising">
+          <img src="https://lh3.googleusercontent.com/-13DR8P0-AN4/WM1ZIz1lRNI/AAAAAAAADeo/XMfJ7CM-pQg9qfRuCgSnphzqhaj3SQg6QCJoC/w424-h318-n-rw/thumbnail4.jpg" alt="" />
+            </div>
+            <div class="tile scale-anm bcards all">
+            <img src="https://lh3.googleusercontent.com/-QlnwuVgbxus/WM1ZI1FKQiI/AAAAAAAADeo/nGSd1ExnnfIfIBF27xs8-EdBdfglqFPZgCJoC/w424-h318-n-rw/thumbnail2.jpg" alt="" />
+            </div>
+            <div class="tile scale-anm flyers all advertising">
+           <img src="https://lh3.googleusercontent.com/-wRHL_FOH1AU/WM1ZIxQZ3DI/AAAAAAAADeo/lwJr8xndbW4MHI-lOB7CQ-14FJB5f5SWACJoC/w424-h318-n-rw/thumbnail5.jpg" alt="" />
+            </div>
+            <div class="tile scale-anm flyers all">
+          <img src="https://lh3.googleusercontent.com/-13DR8P0-AN4/WM1ZIz1lRNI/AAAAAAAADeo/XMfJ7CM-pQg9qfRuCgSnphzqhaj3SQg6QCJoC/w424-h318-n-rw/thumbnail6.jpg" alt="" />
+            </div>
+            <div class="tile scale-anm web all flyers">
+           <img src="https://lh3.googleusercontent.com/-HxSAl6WJSI0/WM-dbkQ1ONI/AAAAAAAADuE/-j9GwJvDOZcwTGuthBQay7XsdsPmtaC6gCL0B/w424-d-h319-p-rw/sumit.png" alt="" />
+            </div>
+            <div class="tile scale-anm flyers all">
+          <img src="https://lh3.googleusercontent.com/-13DR8P0-AN4/WM1ZIz1lRNI/AAAAAAAADeo/XMfJ7CM-pQg9qfRuCgSnphzqhaj3SQg6QCJoC/w424-h318-n-rw/thumbnail3.jpg" alt="" />
+            </div>
+            <div class="tile scale-anm web all">
+           <img src="https://lh3.googleusercontent.com/-QlnwuVgbxus/WM1ZI1FKQiI/AAAAAAAADeo/nGSd1ExnnfIfIBF27xs8-EdBdfglqFPZgCJoC/w424-h318-n-rw/thumbnail2.jpg" alt="" />
+            </div>
+            <div class="tile scale-anm bcards all">
+          <img src="https://lh3.googleusercontent.com/-wRHL_FOH1AU/WM1ZIxQZ3DI/AAAAAAAADeo/lwJr8xndbW4MHI-lOB7CQ-14FJB5f5SWACJoC/w424-h318-n-rw/thumbnail5.jpg" alt="" />
+            </div> 
+      </div>
+            <div style="clear:both;"></div>   
+          </div>
+         </div>
+        </section>
+
+</body>
+</div>
+                  <!--  <div class="gallery-grids">
                         <div class="col-md-8 col-sm-8 ggd baner-top big wow fadeInRight animated" data-wow-delay=".5s">
                             <a href="images/g1.jpg" class="b-link-stripe b-animate-go  swipebox">
                                 <div class="gal-spin-effect vertical ">
@@ -1225,11 +1557,84 @@ Now we are engaged in the production of superior quality Poly Boards, Stiff Boar
 					</div>
 				</div>
 		</div>
-	<!-- //gallery 
+	//gallery 
 	
 <!------ Include the above in your HEAD tag ---------->
+<!--<div class="container-fluid">
+<div class="row">
 
-<
+
+<ul class="nav nav-pills mb-3" id="pills-tab" role="tablist">
+  <li class="nav-item">
+    <a class="nav-link active" id="showall-tab" data-toggle="pill" href="#showall" role="tab" aria-controls="showall" aria-selected="true">Show All</a>
+  </li>
+  <li class="nav-item">
+    <a class="nav-link" id="Cars-tab" data-toggle="pill" href="#Cars" role="tab" aria-controls="Cars" aria-selected="false">Cars</a>
+  </li>
+  <li class="nav-item">
+    <a class="nav-link" id="City-tab" data-toggle="pill" href="#City" role="tab" aria-controls="City" aria-selected="false">Boards</a>
+  </li>
+  <li class="nav-item">
+    <a class="nav-link" id="Forest-tab" data-toggle="pill" href="#Forest" role="tab" aria-controls="Forest" aria-selected="false">Workers</a>
+  </li>
+</ul>
+</div><hr noshade style="margin-top:-20px;">
+<div class="container">
+<div class="tab-content" id="pills-tabContent">
+  <div class="tab-pane fade show active" id="showall" role="tabpanel" aria-labelledby="showall-tab">
+    <div class="Portfolio"><a href="#!"><img class="card-img" src="images/f1.jpg" alt=""></a><div class="desc">Car 1</div></div>
+    <div class="Portfolio"><a href="#!"><img class="card-img" src="images/b1.jpg" alt=""></a><div class="desc">City 1</div></div>
+    <div class="Portfolio"><a href="#!"><img class="card-img" src="images/f2.jpg" alt=""></a><div class="desc">Car 2</div></div>
+    <div class="Portfolio"><a href="#!"><img class="card-img" src="images/s1.jpg" alt=""></a><div class="desc">Forest 1</div></div>
+    <div class="Portfolio"><a href="#!"><img class="card-img" src="images/s2.jpg" alt=""></a><div class="desc">Forest 2</div></div>
+    <div class="Portfolio"><a href="#!"><img class="card-img" src="images/b2.jpg" alt=""></a><div class="desc">City 2</div></div>
+    <div class="Portfolio"><a href="#!"><img class="card-img" src="images/f3.jpg" alt=""></a><div class="desc">Car 3</div></div>
+    <div class="Portfolio"><a href="#!"><img class="card-img" src="images/b3.jpg" alt=""></a><div class="desc">City 3</div></div>
+    <div class="Portfolio"><a href="#!"><img class="card-img" src="images/s3.jpg" alt=""></a><div class="desc">Forest 3</div></div>
+      <div class="Portfolio"><a href="#!"><img class="card-img" src="images/f4.jpg" alt=""></a><div class="desc">Car 3</div></div>
+      <div class="Portfolio"><a href="#!"><img class="card-img" src="images/b4.jpg" alt=""></a><div class="desc">City 3</div></div>
+       <div class="Portfolio"><a href="#!"><img class="card-img" src="images/s4.jpg" alt=""></a><div class="desc">Forest 3</div></div>
+        <div class="Portfolio"><a href="#!"><img class="card-img" src="images/f5.jpg" alt=""></a><div class="desc">Car 3</div></div>
+        <div class="Portfolio"><a href="#!"><img class="card-img" src="images/b5.jpg" alt=""></a><div class="desc">City 3</div></div>
+          <div class="Portfolio"><a href="#!"><img class="card-img" src="images/f6.jpg" alt=""></a><div class="desc">Car 3</div></div>
+          <div class="Portfolio"><a href="#!"><img class="card-img" src="images/b6.jpg" alt=""></a><div class="desc">City 3</div></div>
+            <div class="Portfolio"><a href="#!"><img class="card-img" src="images/f7.jpg" alt=""></a><div class="desc">Car 3</div></div>
+              <div class="Portfolio"><a href="#!"><img class="card-img" src="images/f8.jpg" alt=""></a><div class="desc">Car 3</div></div>
+                <div class="Portfolio"><a href="#!"><img class="card-img" src="images/f9.jpg" alt=""></a><div class="desc">Car 3</div></div>
+    
+  </div>
+  <div class="tab-pane fade" id="Cars" role="tabpanel" aria-labelledby="Cars-tab">
+    <div class="Portfolio"><a href="#!"><img class="card-img" src="" alt="images/f1.jpg"></a><div class="desc">Car 1</div></div>
+    <div class="Portfolio"><a href="#!"><img class="card-img" src="" alt="images/f2.jpg"></a><div class="desc">Car 2</div></div>
+    <div class="Portfolio"><a href="#!"><img class="card-img" src="" alt="images/f3.jpg"></a><div class="desc">Car 3</div></div>
+    <div class="Portfolio"><a href="#!"><img class="card-img" src="" alt="images/f4.jpg"></a><div class="desc">Car 1</div></div>
+    <div class="Portfolio"><a href="#!"><img class="card-img" src="" alt="images/f5.jpg"></a><div class="desc">Car 2</div></div>
+    <div class="Portfolio"><a href="#!"><img class="card-img" src="" alt="images/f6.jpg"></a><div class="desc">Car 3</div></div>
+    <div class="Portfolio"><a href="#!"><img class="card-img" src="" alt="images/f7.jpg"></a><div class="desc">Car 1</div></div>
+    <div class="Portfolio"><a href="#!"><img class="card-img" src="" alt="images/f8.jpg"></a><div class="desc">Car 2</div></div>
+    <div class="Portfolio"><a href="#!"><img class="card-img" src="" alt="images/f9.jpg"></a><div class="desc">Car 3</div></div>
+  </div>
+  <div class="tab-pane fade" id="City" role="tabpanel" aria-labelledby="City-tab">
+    <div class="Portfolio"><a href="#!"><img class="card-img" src="images/b1.jpg" alt=""></a><div class="desc">City 1</div></div>
+    <div class="Portfolio"><a href="#!"><img class="card-img" src="images/b2.jpg" alt=""></a><div class="desc">City 2</div></div>
+    <div class="Portfolio"><a href="#!"><img class="card-img" src="images/b3.jpg" alt=""></a><div class="desc">City 3</div></div>
+        <div class="Portfolio"><a href="#!"><img class="card-img" src="images/b4.jpg" alt=""></a><div class="desc">City 1</div></div>
+    <div class="Portfolio"><a href="#!"><img class="card-img" src="images/b5.jpg" alt=""></a><div class="desc">City 2</div></div>
+    <div class="Portfolio"><a href="#!"><img class="card-img" src="images/b6.jpg" alt=""></a><div class="desc">City 3</div></div>
+  </div>
+  <div class="tab-pane fade" id="Forest" role="tabpanel" aria-labelledby="Forest-tab">
+    <div class="Portfolio"><a href="#!"><img class="card-img" src="images/s1.jpg" alt=""></a><div class="desc">Forest 1</div></div>
+    <div class="Portfolio"><a href="#!"><img class="card-img" src="images/s2.jpg" alt=""></a><div class="desc">Forest 2</div></div>
+    <div class="Portfolio"><a href="#!"><img class="card-img" src="images/s3.jpg" alt=""></a><div class="desc">Forest 3</div></div>
+     <div class="Portfolio"><a href="#!"><img class="card-img" src="images/s4.jpg" alt=""></a><div class="desc">Forest 3</div></div>
+  </div>
+</div>
+
+
+</div>
+</div>
+
+
 <!-- stats -->
 	<div class="stats" id="stats">
 		<div class="container">
@@ -1386,7 +1791,7 @@ Now we are engaged in the production of superior quality Poly Boards, Stiff Boar
 				<li><a class="scroll" href="#home">Home</a></li>
 				<li><a class="scroll" href="#about">About</a></li>
 				<li><a class="scroll" href="#services">Our Products</a></li>
-				<!--<li><a class="scroll" href="#gallery">Finished Goods</a></li>-->
+				<li><a class="scroll" href="#gallery">Finished Goods</a></li>
 				<li><a class="scroll" href="#contact">Contact</a></li>
 			</ul>
 		</nav>
@@ -1502,6 +1907,8 @@ fit: true
 </script>
 
 		<!-- swipe box js -->
+            <script src="https://cdnjs.cloudflare.com/ajax/libs/fancybox/3.2.5/jquery.fancybox.min.js"></script>
+    <script src="js/script.js"></script>
 	<script src="js/jquery.swipebox.min.js"></script> 
 	    <script type="text/javascript">
 			jQuery(function($) {
@@ -1531,19 +1938,45 @@ fit: true
 	<!-- stats -->
 	<script src="js/jquery.waypoints.min.js"></script>
 	<script src="js/jquery.countup.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/fancybox/3.2.5/jquery.fancybox.min.js"></script>
+    <script src="js/script.js"></script>
+   
 	<script>
 		$('.counter').countUp();
+
+
+           /*   gallery */
+$(document).ready(function(){
+
+    $(".filter-button").click(function(){
+        var value = $(this).attr('data-filter');
+        
+        if(value == "all")
+        {
+            $('.filter').show('1000');
+        }
+        else
+        {
+            $(".filter").not('.'+value).hide('3000');
+            $('.filter').filter('.'+value).show('3000');
+            
+        }
+
+                if ($(".filter-button").removeClass("active")) {
+            $(this).removeClass("active");
+            }
+                $(this).addClass("active");
+            });
+});
+/*  end gallery */
+
+
+   
+  
 	</script>
 
-<script>
-$(document).ready(function(){
-    $(".fancybox").fancybox({
-        openEffect: "none",
-        closeEffect: "none"
-    });
-});
-  </script> 
-  
+
+<script type="text/javascript" src="js/bootstrap-3.1.1.min.js"></script>
 
 	<!-- //stats -->
 </body>
