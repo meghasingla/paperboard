@@ -191,8 +191,9 @@ text-justify: auto|inter-word|inter-character|none|initial|inherit;
 							<h1 style="text-align: left;padding-left: 10px;padding-right: 20px;margin-top: 6px;">Susmit Paper Boards &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</h1>
 						</a>
 					</div>
-					<!--/.navbar-header-->
 
+					<!--/.navbar-header-->
+ 
 
 					<div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1" style="padding: 10px;margin: 0px;text-align: left;float: right; padding-right: -25px;padding-left: -20px;">
 						<nav>
