@@ -287,7 +287,7 @@ ul.forms_right li {
 }
 
 .content.title .back-to-article {
-	position: absolute;
+	position: fixed;
 	bottom: -20px;
 	left: 20px;
 }
@@ -324,7 +324,7 @@ ul.forms_right li {
 }
 
 .navbar {
-	position: relative;
+	position: fixed;
 	min-height: 50px;
 	margin-bottom: 0!important;
 	border: 1px solid transparent;
@@ -332,6 +332,7 @@ ul.forms_right li {
 
 .navbar-default {
 	background-color: rgb(61, 61, 61);
+	position: fixed;
 	
 }
 
@@ -347,7 +348,8 @@ ul.forms_right li {
 .navbar-default a.navbar-brand h1 {
 	color: #fff;
 	font-weight: 700;
-	margin-top: 19px;
+	margin-top: -25px;
+	margin-bottom: 80px;
 }
 
 .navbar-default .navbar-nav>li>a {
@@ -408,7 +410,7 @@ ul.forms_right li {
 }
 
 .navbar-toggle {
-	position: relative;
+	position: fixed;
 	float: right;
 	margin-right: 0;
 	padding: 9px 10px;
@@ -1939,7 +1941,7 @@ footer p a:hover {
 /*	general	*/
 
 section{
-    padding: 50px 0;
+    padding: 0px 0;
 }
 
 /*	gallery */

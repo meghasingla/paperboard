@@ -174,10 +174,12 @@ text-justify: auto|inter-word|inter-character|none|initial|inherit;
 
 </style>
 
+<nav class="navbar navbar-default navbar-fixed-top">
 	<div class="header" id="home">
 		<div class="content white">
+            <nav class="navbar navbar-default navbar-fixed-top">
 			<nav class="navbar navbar-default" role="navigation">
-                <nav class="navbar navbar-default navbar-fixed-top">
+               
 
 				<div class="container">
 					<div class="navbar-header" >
@@ -187,8 +189,9 @@ text-justify: auto|inter-word|inter-character|none|initial|inherit;
 					<span class="icon-bar"></span>
 					<span class="icon-bar"></span>
 				</button>
+
 						<a class="navbar-brand" href="">
-							<h1 style="text-align: left;padding-left: 10px;padding-right: 20px;margin-top: 6px;">Susmit Paper Boards &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</h1>
+							<h1 style="padding-top: 28px;padding-left: 48px;">Susmit Paper Boards </h1>
 						</a>
 					</div>
 
@@ -196,7 +199,7 @@ text-justify: auto|inter-word|inter-character|none|initial|inherit;
  
 
 					<div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1" style="padding: 10px;margin: 0px;text-align: left;float: right; padding-right: -25px;padding-left: -20px;">
-						<nav>
+				
 							<ul class="nav navbar-nav">
 								<li><a class="active" href="#">Home</a></li>
 								<li><a class="scroll" href="#about" >About</a></li>
@@ -207,7 +210,7 @@ text-justify: auto|inter-word|inter-character|none|initial|inherit;
 							</ul>
 						</nav>
 					</div>
-					<!--/.navbar-collapse-
+					<!--/.navbar-collapse-->
 					<!--/.navbar-->
 				</div>
 			</nav>
@@ -276,7 +279,7 @@ text-justify: auto|inter-word|inter-character|none|initial|inherit;
 
 	<div class="banner-bottom" id="about">
 		<div class="container">
-	<div class="w3-heading-all">
+	<div class="w3-heading-all"><br><br>
 				<h3>About us</h3>
 			</div>
 		<br><br>
@@ -535,6 +538,7 @@ Now we are engaged in the production of superior quality Poly Boards, Stiff Boar
 		<div class="container"> 
 					<div class="agileits-title"> 
 				<div class="w3-heading-all">
+                    <br><br>
 				<h3>Our Products</h3>
 			</div>
 				<div class="clearfix"> </div>
@@ -546,8 +550,8 @@ Now we are engaged in the production of superior quality Poly Boards, Stiff Boar
 			<li></i>MILL BOARDS </li>
 			<li></i>DUPLEX BOARDS </li>
 			<li></i>GREY BOARDS </li>
-			<li></i>COLOR BOARD </li>
-			<li></i>CLASSIC BOARD </li>
+			<li></i>COLOR BOARDS</li>
+			<li></i>CLASSIC BOARDS </li>
 			
 		</ul>
 		<div class="resp-tabs-container" >
@@ -692,6 +696,7 @@ Now we are engaged in the production of superior quality Poly Boards, Stiff Boar
 		<div class="container">
 	<div class="w3-heading-all">
 		<div class="processflow" id="processflow"> 
+            <br><br>
 				<h3>Process Flow</h3>
 			</div>
 
@@ -896,7 +901,7 @@ Now we are engaged in the production of superior quality Poly Boards, Stiff Boar
 
 	<!--Gallery-->
 
-<section class="portfolio-w3ls" id="gallery">
+<section class="portfolio-w3ls" id="gallery"><br><br>
        <center>  <h2 class="title-w3-agileits title-black-wthree" style="color:#3d3d3d;font-size: 2em;font-weight: 400px;">Our Gallery</h2></center>
    
 
@@ -912,7 +917,7 @@ Now we are engaged in the production of superior quality Poly Boards, Stiff Boar
                 <button class="filter-button" data-filter="all">All</button>
                 <button class="filter-button" data-filter="category1">Our Factory</button>
                 <button class="filter-button" data-filter="category2">Our Products</button>
-                <button class="filter-button" data-filter="category3">Finished Goods</button>
+                <button class="filter-button" data-filter="category3">Turning Our Products into Finished Goods</button>
             </div>
             
             <br/>
@@ -1728,7 +1733,7 @@ Now we are engaged in the production of superior quality Poly Boards, Stiff Boar
 <!-- /contact us --><br>
 <div class="contact-w3-agileits w3ls-section jarallax" id="contact">
 		<div class="container">
-		<div class="w3-heading-all">
+		<div class="w3-heading-all"><br><br>
 				<h3>Contact us For Sample</h3>
 			</div>
 			<div class="col-md-5 col-sm-5 col-xs-12 contact-left-w3ls">				
