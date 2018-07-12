@@ -191,7 +191,8 @@ text-justify: auto|inter-word|inter-character|none|initial|inherit;
 				</button>
 
 						<a class="navbar-brand" href="">
-							<h1 style="padding-top: 28px;padding-left: 48px;">Susmit Paper Boards </h1>
+							<!--<h1 style="padding-top: 28px;padding-left: 48px;">Susmit Paper Boards </h1>-->
+                            <img src="../images/logo.png" width="25%" style="margin-top: -50px;padding-left: 65px;">
 						</a>
 					</div>
 
@@ -240,7 +241,7 @@ text-justify: auto|inter-word|inter-character|none|initial|inherit;
 			<div class="item item2">
 				<div class="container">
 					<div class="carousel-caption">
-						<h3>We are the new version of <span> Sri Murugan </span>paper boards</h3>
+						<h3>We are the leading manufacturer of<span> all kind of </span>paper boards</h3>
 						<p>Leading manufacturer of all kind of paper boards</p>
 						
 					</div>
@@ -317,7 +318,7 @@ text-justify: auto|inter-word|inter-character|none|initial|inherit;
                 </div>
                 <div class="service-content" >
                     <h3>Manufacturing and Trading </h3>
-                    <p>We are abroad with different manufacturing and Trading Establishments with capable experienced hands .</p>
+                    <p>We are the leading manufacturer of all kind of paper boards.</p>
                 </div>
             </div>
         </div>
@@ -567,6 +568,7 @@ Now we are engaged in the production of superior quality Poly Boards, Stiff Boar
 					     	<li>Minimum size – 27”X 32” inches</li>
 					     	<li>Gauge: 50-160 </li>
 					     	<li>Maximum Size: 30“X 35 “</li>
+                            <li>Usage:Albums, Diaries, Binding Books, Box Files, Daily Calendar and Cake stand.</li>
 					     </ul>
 						<p>Being used by Book Binders, Diary , Calender,  and Cake Base manufactures. </p>
 				
@@ -603,6 +605,7 @@ Now we are engaged in the production of superior quality Poly Boards, Stiff Boar
 					     <h4>Millboard Sheet is a thick, square piece of asbestos based insulation.</h4>
 					     <ul style="font-size: 20px;font-family: Georgia;position: relative;margin-left: 40px;padding: 10px;">
 					     	<li>Standard size:- 27x32 inches – OZ 16-60</li>
+                            <li>Usage :  Agarbathi Tubes,  Binding Books,  Daily Calendar and Cake stand.</li>
 					     	
 					     </ul>
 						<p>It is used in walls, furnaces, fire screens</p>
@@ -638,6 +641,7 @@ Now we are engaged in the production of superior quality Poly Boards, Stiff Boar
 					     <h4>Grey Board is extensively used for various industrial applications such as packaging and many more.</h4>
 					     <ul style="font-size: 20px;font-family: Georgia;position: relative;margin-left: 40px;padding: 10px;">
 					     	<li>Standard size:- 27x32 inches – OZ 16-20</li>
+                            <li>Usage :  Binding Paper pad, Binding Bill Books, Wedding Card pattern, Ice Cream Box, Sandal Box and Agarbathi Tubes.</li>
 					     	
 					     </ul>
 						<p>It is used in walls, furnaces, fire screens</p>
@@ -674,6 +678,7 @@ Now we are engaged in the production of superior quality Poly Boards, Stiff Boar
 					     	<li>Used for Export quality Diaries,  </li>
 					     	<li>Gift and Jewel Boxes</li>
 					     	<li>Thickness:-1mm to 3 mm. </li>
+                            <li>Usage :  Jewel Box manufacturing, Box Files, High Quality Diaries, Table Pad </li>
 					     </ul>
 						<p> </p>
 				
@@ -912,11 +917,11 @@ Now we are engaged in the production of superior quality Poly Boards, Stiff Boar
             <!--<div class="gallery col-lg-12 col-md-12 col-sm-12 col-xs-12">
                 <h1 class="gallery-title">Gallery</h1>
             </div>-->
-
+<link rel="stylesheet" type="" href="js/port.js">
             <div align="center">
-                <button class="filter-button" data-filter="all">All</button>
+                <button class="filter-button" data-filter="all" >All</button>
                 <button class="filter-button" data-filter="category1">Our Factory</button>
-                <button class="filter-button" data-filter="category2">Our Products</button>
+                <button class="filter-button active" data-filter="category2">Our Products</button>
                 <button class="filter-button" data-filter="category3">Turning Our Products into Finished Goods</button>
             </div>
             
@@ -932,10 +937,10 @@ Now we are engaged in the production of superior quality Poly Boards, Stiff Boar
                 </a>
             </div>
 
-            <div class="gallery_product col-sm-3 col-xs-6 filter category2">
-                <a class="fancybox" rel="ligthbox" href="images/b1.jpg">
-                    <img class="img-responsive" alt="" src="images/b1.jpg" />
-                    <div class='img-info'>
+            <div class="gallery_product col-sm-3 col-xs-6 filter category2 active">
+                <a class="fancybox active" rel="ligthbox" href="images/b2.jpg">
+                    <img class="img-responsive active" alt="" src="images/b2.jpg" />
+                    <div class='img-info active'>
                         <h4>Color Board</h4>
                         <p></p>
                     </div>
@@ -961,10 +966,10 @@ Now we are engaged in the production of superior quality Poly Boards, Stiff Boar
                     </div>
                 </a>
             </div>
-              <div class="gallery_product col-sm-3 col-xs-6 filter category2">
-                <a class="fancybox" rel="ligthbox" href="images/b2.jpg">
-                    <img class="img-responsive" alt="" src="images/b2.jpg" />
-                    <div class='img-info'>
+              <div class="gallery_product col-sm-3 col-xs-6 filter category2 active">
+                <a class="fancybox active" rel="ligthbox" href="images/b1.jpg">
+                    <img class="img-responsive active" alt="" src="images/b1.jpg" />
+                    <div class='img-info active'>
                         <h4>Classic Board</h4>
                         <p></p>
                     </div>
@@ -993,10 +998,10 @@ Now we are engaged in the production of superior quality Poly Boards, Stiff Boar
                 </a>
             </div>
 
-            <div class="gallery_product col-sm-3 col-xs-6 filter category2">
-                <a class="fancybox" rel="ligthbox" href="images/b3.jpg">
-                    <img class="img-responsive" alt="" src="images/b3.jpg" />
-                    <div class='img-info'>
+            <div class="gallery_product col-sm-3 col-xs-6 filter category2 active">
+                <a class="fancybox active" rel="ligthbox" href="images/b3.jpg">
+                    <img class="img-responsive active" alt="" src="images/b3.jpg" />
+                    <div class='img-info active'>
                         <h4>Mill Board</h4>
                         <p></p>
                     </div>
@@ -1023,10 +1028,10 @@ Now we are engaged in the production of superior quality Poly Boards, Stiff Boar
                 </a>
             </div>
 
-            <div class="gallery_product col-sm-3 col-xs-6 filter category2">
-                <a class="fancybox" rel="ligthbox" href="images/b4.jpg">
-                    <img class="img-responsive" alt="" src="images/b4.jpg" />
-                    <div class='img-info'>
+            <div class="gallery_product col-sm-3 col-xs-6 filter category2 active">
+                <a class="fancybox active" rel="ligthbox" href="images/b4.jpg">
+                    <img class="img-responsive active" alt="" src="images/b4.jpg" />
+                    <div class='img-info active'>
                         <h4>Grey Board</h4>
                         <p></p>
                     </div>
@@ -1052,10 +1057,10 @@ Now we are engaged in the production of superior quality Poly Boards, Stiff Boar
                 </a>
             </div>
 
-            <div class="gallery_product col-sm-3 col-xs-6 filter category2">
-                <a class="fancybox" rel="ligthbox" href="images/b5.jpg">
-                    <img class="img-responsive" alt="" src="images/b5.jpg" />
-                    <div class='img-info'>
+            <div class="gallery_product col-sm-3 col-xs-6 filter category2 active">
+                <a class="fancybox active" rel="ligthbox" href="images/b5.jpg">
+                    <img class="img-responsive active" alt="" src="images/b5.jpg" />
+                    <div class='img-info active'>
                         <h4>Duplex Board</h4>
                         <p></p>
                     </div>
@@ -1081,10 +1086,10 @@ Now we are engaged in the production of superior quality Poly Boards, Stiff Boar
                 </a>
             </div>
 
-            <div class="gallery_product col-sm-3 col-xs-6 filter category2">
-                <a class="fancybox" rel="ligthbox" href="images/b6.jpg">
-                    <img class="img-responsive" alt="" src="images/b6.jpg" />
-                    <div class='img-info'>
+            <div class="gallery_product col-sm-3 col-xs-6 filter category2 active">
+                <a class="fancybox active" rel="ligthbox" href="images/b6.jpg">
+                    <img class="img-responsive active" alt="" src="images/b6.jpg" />
+                    <div class='img-info active'>
                         <h4>Stiff Board</h4>
                         <p></p>
                     </div>
@@ -1127,10 +1132,10 @@ Now we are engaged in the production of superior quality Poly Boards, Stiff Boar
                     </div>
                 </a>
             </div>
-              <div class="gallery_product col-sm-3 col-xs-6 filter category2">
-                <a class="fancybox" rel="ligthbox" href="images/b7.jpg">
-                    <img class="img-responsive" alt="" src="images/b7.jpg" />
-                    <div class='img-info'>
+              <div class="gallery_product col-sm-3 col-xs-6 filter category2 active">
+                <a class="fancybox active" rel="ligthbox" href="images/b7.jpg">
+                    <img class="img-responsive active" alt="" src="images/b7.jpg" />
+                    <div class='img-info active'>
                         <h4>Kappa Board</h4>
                         <p></p>
                     </div>
@@ -1803,55 +1808,68 @@ Now we are engaged in the production of superior quality Poly Boards, Stiff Boar
 <!--footer-->
 
 	<div class="footer"style="padding-bottom:-10px;margin-bottom: 0px;">
-		<nav>
-			<ul class="nav-buttom"style="padding-bottom:-10px;margin-bottom: 0px;">
-				<li><a class="scroll" href="#home">Home</a></li>
-				<li><a class="scroll" href="#about">About</a></li>
-				<li><a class="scroll" href="#services">Our Products</a></li>
-				<li><a class="scroll" href="#gallery">Finished Goods</a></li>
-				<li><a class="scroll" href="#contact">Contact</a></li>
-			</ul>
-		</nav>
+	
 		<div class="container">
 		<div class="colr-row col-md-6  ">
 			<div class="col-md-6 col-sm-6 col-xs-6  bottom-head bottm-grid">
-				<h2 style="font-size: 12px;padding: 20px;margin-left: 40px;"><a href="index.html">Susmit Paper Boards</a></h2>
+				<!--<h2 style="font-size: 12px;padding: 20px;margin-left: 40px;"><a href="index.html">Susmit Paper Boards</a></h2>-->
+                <div class="col-md-6 col-sm-6 col-xs-6 one bottm-grid" >
+                <img src="images/logo/logo1.png" width="185%" style="margin-bottom: -38px;margin-top: -33px;margin-left: 20px;" >
+                <p style="width: 199%;text-align: left;font-family: Roboto;padding-left: 42px;line-height: 27px;"> Susmit Paper Boards is a creator of all kind of paper boards.</p>
+                <div class="clearfix"></div>
+            </div>
+                            <!--<h1 style="padding-top: 28px;padding-left: 48px;">Susmit Paper Boards </h1>-->
+                            
+                       
+                       
+               
+                
+
 				<span class="cap">
 				<div class="clearfix"> </div>
 			</div>
 			
 			<div class="col-md-6 col-sm-6 col-xs-6 copyright bottm-grid">
-				<h3>Follow us</h3>
-				<div class="icons">
-					<ul>
-						<li><a href="https://www.facebook.com/boards.susmit"><span class="fa fa-facebook"></span></a></li>
-						<li><a href="#"><span class="fa fa-twitter"></span></a></li>
-						<li><a href="#"><span class="fa fa-rss"></span></a></li>
-						<li><a href="#"><span class="fa fa-vk"></span></a></li>
-					</ul>
-
-				</div>
+				<h3>About us</h3>
+                    <nav>
+            <ul class="nav-buttom"style="padding-bottom:-10px;margin-bottom: 0px;text-align: left;">
+                <li><a  href="#home">Home</a></li><br>
+                <li ><a  href="#about">About</a></li><br>
+                <li ><a  href="#services">Products</a></li>
+                <li><a  href="#gallery">Gallery</a></li>
+                <li><a href="#contact">Contact</a></li>
+            </ul>
+        </nav>
+			
 				<div class="clearfix"> </div>
 			</div>
 			<div class="clearfix"> </div>
 			</div>
 			<div class="colr-row  col-md-6">
 			<div class="col-md-6 col-sm-6 col-xs-6 one bottm-grid" >
-				<h3>About us</h3>
-				<p> Susmit Paper Boards is a new version of  Murugan paper boards,a leading manufacturer of all kind of paper boards.</p>
+				<h3>Contact us</h3>
+				<div class="addres up-out" style="text-align: left;">
+                    <p><span class="fa fa-map-marker icons-left" aria-hidden="true" ></span>Susmit Paper Boards
+                            Thalavaipattinam &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(PO)
+                            Chikkinapuram, Dharapuram 
+                            Tirupur &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;DT, TamilNadu – 638656</p>
+
+                    <p><span class="fa fa-phone icons-left" aria-hidden="true"></span>Call us:+91 9496234910 , +91 9287556919 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Dubai ( +97150 5764839)</p>
+
+                </div>
 				<div class="clearfix"></div>
 			</div>
 			<div class="col-md-6 col-sm-6 col-xs-6 three bottm-grid">
-				<h3>Contact</h3>
-				<div class="addres up-out">
-					<p><span class="fa fa-map-marker icons-left" aria-hidden="true"></span>Susmit Paper Boards
-							Thalavaipattinam (PO)
-							Chikkinapuram, Dharapuram 
-							Tirupur DT, TamilNadu – 638656</p>
+				<h3>Follow Us</h3>
+				<div class="icons">
+                    <ul>
+                        <li><a href="https://www.facebook.com/boards.susmit"><span class="fa fa-facebook"></span></a></li>
+                        <li><a href="#"><span class="fa fa-twitter"></span></a></li>
+                        <li><a href="#"><span class="fa fa-rss"></span></a></li>
+                        <li><a href="#"><span class="fa fa-vk"></span></a></li>
+                    </ul>
 
-					<p><span class="fa fa-phone icons-left" aria-hidden="true"></span>Call us:+91 9496234910 , +91 9287556919  Dubai ( +97150 5764839)</p>
-
-				</div>
+                </div>
 				<div class="clearfix"> </div>
 			</div>
 			<!-- //Copyright -->
@@ -1967,10 +1985,11 @@ $(document).ready(function(){
 
     $(".filter-button").click(function(){
         var value = $(this).attr('data-filter');
-        
+       
         if(value == "all")
         {
             $('.filter').show('1000');
+
         }
         else
         {
@@ -1991,6 +2010,8 @@ $(document).ready(function(){
    
   
 	</script>
+<script >
+    
 
 
 <script type="text/javascript" src="js/bootstrap-3.1.1.min.js"></script>

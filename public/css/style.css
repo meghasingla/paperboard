@@ -325,7 +325,7 @@ ul.forms_right li {
 
 .navbar {
 	position: fixed;
-	min-height: 50px;
+	min-height: 71px;
 	margin-bottom: 0!important;
 	border: 1px solid transparent;
 }
@@ -1817,7 +1817,7 @@ span.glyphicon.glyphicon-time {
 }
 
 ul.nav-buttom {
-	margin:1em 0;
+	margin:1em 55px;
 }
 
 footer{background: #2f2f2f;}
@@ -1873,6 +1873,7 @@ span.cap{
     color: #fff;
     line-height: 26px;
     font-size: 14px;
+    width: 130%;
 }
 .addres.up-out p:nth-child(1), .addres.up-out p:nth-child(2), .addres.up-out p:nth-child(3) {
     padding-top: 0px;
