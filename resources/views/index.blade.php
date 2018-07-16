@@ -204,9 +204,9 @@ text-justify: auto|inter-word|inter-character|none|initial|inherit;
 							<ul class="nav navbar-nav">
 								<li><a class="active" href="#">Home</a></li>
 								<li><a class="scroll" href="#about" >About</a></li>
-								<li><a class="scroll" href="#services">Our Products</a></li>
+								<li><a class="scroll" href="#services">Products</a></li>
 								<li><a class="scroll" href="#processflow">Process Flow</a></li>
-								<li><a class="scroll" href="#gallery">Finished Goods</a></li>
+								<li><a class="scroll" href="#gallery">Gallery</a></li>
 								<li><a class="scroll" href="#contact" >Contact</a></li>
 							</ul>
 						</nav>
@@ -910,8 +910,8 @@ Now we are engaged in the production of superior quality Poly Boards, Stiff Boar
        <center>  <h2 class="title-w3-agileits title-black-wthree" style="color:#3d3d3d;font-size: 2em;font-weight: 400px;">Our Gallery</h2></center>
    
 
-<section class="portfolio" id="portfolio">
-    <div class="container-fluid">
+<section class="portfolio" id="portfolio" data-ride="carousel">
+    <div class="container-fluid" >
         <div class="row">
 
             <!--<div class="gallery col-lg-12 col-md-12 col-sm-12 col-xs-12">
@@ -921,7 +921,7 @@ Now we are engaged in the production of superior quality Poly Boards, Stiff Boar
             <div align="center">
                 <button class="filter-button" data-filter="all" >All</button>
                 <button class="filter-button" data-filter="category1">Our Factory</button>
-                <button class="filter-button active" data-filter="category2">Our Products</button>
+                <button class="filter-button" data-filter="category2">Our Products</button>
                 <button class="filter-button" data-filter="category3">Turning Our Products into Finished Goods</button>
             </div>
             
@@ -1657,7 +1657,7 @@ Now we are engaged in the production of superior quality Poly Boards, Stiff Boar
 </div>
 
 
-<!-- stats -->
+<!-- stats 
 	<div class="stats" id="stats">
 		<div class="container">
 			<div class="col-md-3 w3layouts_stats_left w3_counter_grid">
@@ -1796,7 +1796,7 @@ Now we are engaged in the production of superior quality Poly Boards, Stiff Boar
 					<input type="text"  class="Email" name="Email" placeholder="Email" required=""><br>
 					<input type="text"  class="subject" name="subject" placeholder="Subject" required=""><br>
 					<!--<input type="textarea "style="padding: 75px;position: absolute;"  class="message" name="message" placeholder="message" required="">-->
-					<textarea placeholder="Message" style="width: 49%" required=""></textarea><br>
+					<textarea class="messageBody" name="messageBody" placeholder="Message"style="width: 49%" required=""></textarea><br>
 					<input type="submit" value="Send ">
 				</form>
 			</div>
@@ -1957,8 +1957,8 @@ fit: true
 	<script defer src="js/jquery.flexslider.js"></script>
 	<script type="text/javascript">
 		$(function(){
-			SyntaxHighlighter.all();
-				});
+			// SyntaxHighlighter.all();
+		});
 				$(window).load(function(){
 				$('.flexslider').flexslider({
 					animation: "slide",
@@ -1979,43 +1979,24 @@ fit: true
 	<script>
 		$('.counter').countUp();
 
-
            /*   gallery */
-$(document).ready(function(){
-
-    $(".filter-button").click(function(){
+$(document).ready(function() {
+    $(".filter-button").click(function() {
         var value = $(this).attr('data-filter');
-       
-        if(value == "all")
-        {
+        if(value == "all") {
             $('.filter').show('1000');
-
-        }
-        else
-        {
+        } else {
             $(".filter").not('.'+value).hide('3000');
             $('.filter').filter('.'+value).show('3000');
-            
         }
-
-                if ($(".filter-button").removeClass("active")) {
-            $(this).removeClass("active");
-            }
-                $(this).addClass("active");
-            });
+        $(".filter-button").removeClass("active");
+        $(this).addClass("active");
+    });
+    $('[data-filter="category2"]').trigger('click');
 });
 /*  end gallery */
 
-
-   
-  
 	</script>
-<script >
-    
-
-
-<script type="text/javascript" src="js/bootstrap-3.1.1.min.js"></script>
-
 	<!-- //stats -->
 </body>
 

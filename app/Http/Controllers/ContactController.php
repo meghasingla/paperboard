@@ -10,7 +10,7 @@ class ContactController extends Controller
      public function send(Request $request)
     {
     	//return config('mail');
-    	\Mail::send('mails.contact', [ 'messageBody' => $request->message ] + $request->all(), function($message) {
+    	\Mail::send('mails.contact', $request->all(), function($message) {
     		$message->to('susmitboards@gmail.com');
     		$message->subject('Website Enquiry');
             

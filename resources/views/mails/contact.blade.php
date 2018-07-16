@@ -1,8 +1,6 @@
-
 <!DOCTYPE html>
 <html lang="en">
     <link href="" media="all" />
-    
     <body style="background-color: ">
 
         <div class="text-left">
@@ -28,9 +26,6 @@
 
                     Someone registered with the following details:<br>Name - <b>{{ $name }}</b><br>Email - <b>{{ $Email }}</b><br>Subject - <b>{{ $subject }}</b><br>Message - <b>{{ $messageBody }}</b>
                 </p>
-               
-                
-                
                 <p></p>
             </div>
         </div>
