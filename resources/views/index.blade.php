@@ -232,16 +232,17 @@ text-justify: auto|inter-word|inter-character|none|initial|inherit;
 			<div class="item active">
 				<div class="container">
 					<div class="carousel-caption">
-						<h3>Our company is involved in <span> manufacturing of </span>qualitative Paper Boards.</h3>
-						<p>Solutions made easy</p>
+                        <h3 style="font-family: Raleway; font-weight:bold;">RECYCLE,<span style="color: #f8831a; "> RECREATE </span> ,REUSE</h3>
+						
+						<p></p>
 						
 					</div>
 				</div>
 			</div>
 			<div class="item item2">
 				<div class="container">
-					<div class="carousel-caption">
-						<h3>RECYCLE,<span> RECREATE </span> ,REUSE</h3>
+					<div class="carousel-caption" >
+						<h3 style="font-family: Raleway; font-size: 3.5em; font-weight: bold;">Our company is involved in <span style="color: #f8831a"> manufacturing of </span>qualitative Paper Boards.</h3>
 						<p></p>
 						
 					</div>
@@ -250,7 +251,7 @@ text-justify: auto|inter-word|inter-character|none|initial|inherit;
 			<div class="item item3">
 				<div class="container">
 					<div class="carousel-caption">
-						<h3>We offer <span>Paper Boards </span>in different thickness.</h3>
+						<h3 style="font-family: Raleway;font-size: 3.5em; font-weight: bold;">We offer <span style="color: #f8831a">Paper Boards </span><br>in different thickness.</h3>
 						<p></p>
 						
 					</div>
@@ -260,8 +261,8 @@ text-justify: auto|inter-word|inter-character|none|initial|inherit;
 				<div class="container">
 					<div class="carousel-caption">
 
-						<h3> We provide <span>BEST </span>Products</h3>
-						<p>You deserve the best</p>
+						<h3 style="font-family: Raleway;font-size: 3.5em; font-weight: bold;"> We provide <span style="color: #f8831a">BEST </span>Products</h3>
+						<p></p>
 						
 					</div>
 				</div>
@@ -304,7 +305,7 @@ text-justify: auto|inter-word|inter-character|none|initial|inherit;
                  <div class="colortext"  >	
                 	
                     <h3 style="background-color: rgb(254,143,1);">SUSMIT PAPER BOARDS</h3>
-                    <p style="color: #fff;">We are driven under the leadership of Mr. Suresh P Nair , a well experienced Team player with more than 22 years of experience in India .</p></div>
+                    <p style="color: #fff;">Your reliable business partner for all paper board requirements. </p></div>
                 </div>
             </div>
         </div>
@@ -318,7 +319,7 @@ text-justify: auto|inter-word|inter-character|none|initial|inherit;
                 </div>
                 <div class="service-content" >
                     <h3>Manufacturing and Trading </h3>
-                    <p>We offer Paper Boards in different thickness. </p>
+                    <p>Leading manufactures and traders serving India and abroad.  </p>
                 </div>
             </div>
         </div>
@@ -333,7 +334,7 @@ text-justify: auto|inter-word|inter-character|none|initial|inherit;
                 <div class="service-content" style="background-color: rgb(254,143,1);">
                 	<div class="colortext">
                     <h3>PRODUCTION</h3>
-                    <p style="color:#fff;">We are betrothed in the production of superior quality Paper Boards in the domestic and international market. </p></div>
+                    <p style="color:#fff;">Engaged in the production of superior quality Poly Boards, Stiff Boards, File Boards and Duplex Boards . </p></div>
                 </div>
             </div>
         </div>
@@ -570,7 +571,7 @@ Now we are engaged in the production of superior quality Poly Boards, Stiff Boar
 					     	<li>Maximum Size: 30“X 35 “</li>
                             <li>Usage:Albums, Diaries, Binding Books, Box Files, Daily Calendar and Cake stand.</li>
 					     </ul>
-						<p>Being used by Book Binders, Diary , Calender,  and Cake Base manufactures. </p>
+						<p></p>
 				
 				</div>
 				<div class="clearfix"></div>
