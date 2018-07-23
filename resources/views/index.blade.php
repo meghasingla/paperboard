@@ -192,7 +192,7 @@ text-justify: auto|inter-word|inter-character|none|initial|inherit;
 
 						<a class="navbar-brand" href="">
 							<!--<h1 style="padding-top: 28px;padding-left: 48px;">Susmit Paper Boards </h1>-->
-                            <img src="../images/logo.png" width="25%" style="margin-top: -50px;padding-left: 65px;">
+                            <img src="../images/logo5.png" width="25%" style="margin-top: -42px;padding-left: 65px;">
 						</a>
 					</div>
 
@@ -232,7 +232,7 @@ text-justify: auto|inter-word|inter-character|none|initial|inherit;
 			<div class="item active">
 				<div class="container">
 					<div class="carousel-caption">
-						<h3>Your reliable <span>business partner </span>for all paper board requirements.</h3>
+						<h3>Our company is involved in <span> manufacturing of </span>qualitative Paper Boards.</h3>
 						<p>Solutions made easy</p>
 						
 					</div>
@@ -241,8 +241,8 @@ text-justify: auto|inter-word|inter-character|none|initial|inherit;
 			<div class="item item2">
 				<div class="container">
 					<div class="carousel-caption">
-						<h3>We are the leading manufacturer of<span> all kind of </span>paper boards</h3>
-						<p>Leading manufacturer of all kind of paper boards</p>
+						<h3>RECYCLE,<span> RECREATE </span> ,REUSE</h3>
+						<p></p>
 						
 					</div>
 				</div>
@@ -250,7 +250,7 @@ text-justify: auto|inter-word|inter-character|none|initial|inherit;
 			<div class="item item3">
 				<div class="container">
 					<div class="carousel-caption">
-						<h3>We are serving the market for <span>last three </span>decades.</h3>
+						<h3>We offer <span>Paper Boards </span>in different thickness.</h3>
 						<p></p>
 						
 					</div>
@@ -318,7 +318,7 @@ text-justify: auto|inter-word|inter-character|none|initial|inherit;
                 </div>
                 <div class="service-content" >
                     <h3>Manufacturing and Trading </h3>
-                    <p>We are the leading manufacturer of all kind of paper boards.</p>
+                    <p>We offer Paper Boards in different thickness. </p>
                 </div>
             </div>
         </div>
@@ -333,7 +333,7 @@ text-justify: auto|inter-word|inter-character|none|initial|inherit;
                 <div class="service-content" style="background-color: rgb(254,143,1);">
                 	<div class="colortext">
                     <h3>PRODUCTION</h3>
-                    <p style="color:#fff;">Engaged in the production of superior quality Poly Boards, Stiff Boards, File Boards and Duplex Boards extensively used as Raw material .</p></div>
+                    <p style="color:#fff;">We are betrothed in the production of superior quality Paper Boards in the domestic and international market. </p></div>
                 </div>
             </div>
         </div>
@@ -457,7 +457,7 @@ text-justify: auto|inter-word|inter-character|none|initial|inherit;
               
                     <h1> <span></span></h1>
                     <h4></h4><br><br>&nbsp;&nbsp;
-                    <p style="font-size: 17px;">Susmit Paper Boards is a new version of &nbsp; <span> Sri Murugan paper boards</span>, a leading manufacturer of all kind of paper boards serving  the market for last three decades under the  supervision <br>of &nbsp;<span>Mr. Karthik Muckharji </span>,  &nbsp;&nbsp;a well experienced professional in the industry for more than <br>50 years for all kind of Paper Board manufacturing and machinery erection all over India. Now Susmit Paper Board is driven under the leadership of <span>&nbsp;Mr. Suresh P Nair&nbsp;</span>,&nbsp; a&nbsp; well experienced Team Player with more than&nbsp;&nbsp;<span> 22 years</span>&nbsp; of experience in India and abroad with different manufacturing and Trading establishments with capable experienced hands &nbsp;<span> Jayan Muckharji and Ajayan Muckharji </span>, both are professional successors to this industry. 
+                    <p style="font-size: 17px;text-align: justify">Susmit Paper Boards is a new version of  <span> &nbsp;Sri Murugan paper boards</span>&nbsp;&nbsp;, a leading manufacturer of all kind of paper boards serving  the market for last three decades under the  supervision <br>of<span>&nbsp;&nbsp;Mr. Karthik Muckharji </span>, a well experienced professional in the industry for more than <br>50 years for all kind of Paper Board manufacturing and machinery erection all over India. Now Susmit Paper Board is driven under the leadership of <span>Mr. Suresh P Nair</span>, a well experienced Team Player with more than<span> 22 years</span> of experience in India and abroad with different manufacturing and Trading establishments with capable experienced hands <span> Jayan Muckharji and Ajayan Muckharji </span>, both are professional successors to this industry. 
 Now we are engaged in the production of superior quality Poly Boards, Stiff Boards, File Boards and Duplex Boards extensively used as Raw material for Diary, Daily Calendars, Book Binding, Cake Base, Gift Box and Jewel Box for domestic and International market.The manufacturing process is 100% Eco Friendly using recycling scrap craft paper both imported and domestic
 
 </p>
@@ -480,13 +480,13 @@ Now we are engaged in the production of superior quality Poly Boards, Stiff Boar
         <div class="row">
             <div class="col-xs-12">
             <div class="col-md-4 col-sm-6 col-xs-12">    
-                <div class="aboutus-image float-left hidden-sm"><img src="images/vi.jpg" alt=""></div>
+                <div class="aboutus-image float-left hidden-sm"><img src="images/x.jpg" alt=""></div>
                 </div>
             <div class="col-md-8 col-sm-6 col-xs-12">
                 <div class="aboutus-content ">
                     <h1>Susmit Paper <span>Boards</span></h1>
-                    <h4>Your reliable business partner for all paper board requirements.</h4><br>
-                    <p style="font-size: 17px;">Our vision is to run and develop a successful business enterprise with  principles of  Timely and quantitative Supply,  Maintaining consistent quality ,Save Earth by recycling Raw Material and Eco Friendly production keeping a fruitful relationship with our  customer and Suppliers with a common slogan “ Grow us together”. 
+                    <h4></h4><br>
+                    <p style="font-size: 17px;text-align: justify;">Our vision is to run and develop a successful business enterprise with  principles of  Timely and quantitative Supply,  Maintaining consistent quality ,Save Earth by recycling Raw Material and Eco Friendly production keeping a fruitful relationship with our  customer and Suppliers with a common slogan “ Grow us together”. 
  Please feel free to contact us any time in regard to the any further information on the product range as well as any specific needs as per your requirement. 
 </p>
                 </div>
@@ -602,13 +602,13 @@ Now we are engaged in the production of superior quality Poly Boards, Stiff Boar
 				</div>
 				<div class="col-md-6 tab-info">
 					<h5>Manufactures</h5>
-					     <h4>Millboard Sheet is a thick, square piece of asbestos based insulation.</h4>
+					     <h4>Mill Board is commonly  used card boards for many purposes with Low Budget.</h4>
 					     <ul style="font-size: 20px;font-family: Georgia;position: relative;margin-left: 40px;padding: 10px;">
 					     	<li>Standard size:- 27x32 inches – OZ 16-60</li>
                             <li>Usage :  Agarbathi Tubes,  Binding Books,  Daily Calendar and Cake stand.</li>
 					     	
 					     </ul>
-						<p>It is used in walls, furnaces, fire screens</p>
+						<p></p>
 				
 				</div>
 				<div class="clearfix"></div>
@@ -644,7 +644,7 @@ Now we are engaged in the production of superior quality Poly Boards, Stiff Boar
                             <li>Usage :  Binding Paper pad, Binding Bill Books, Wedding Card pattern, Ice Cream Box, Sandal Box and Agarbathi Tubes.</li>
 					     	
 					     </ul>
-						<p>It is used in walls, furnaces, fire screens</p>
+						<p></p>
 				
 				</div>
 				<div class="clearfix"></div>
@@ -765,7 +765,7 @@ Now we are engaged in the production of superior quality Poly Boards, Stiff Boar
         	
           <div class="timeline-image">
           
-            <img class="img-circle img-responsive" src="../images/prr.jpg" alt="">
+            <img class="img-circle img-responsive" src="../images/s6.jpg" alt="">
           </div>
           <div class="timeline-panel">
             <div class="timeline-heading">
@@ -920,7 +920,7 @@ Now we are engaged in the production of superior quality Poly Boards, Stiff Boar
 <link rel="stylesheet" type="" href="js/port.js">
             <div align="center">
                 <button class="filter-button" data-filter="all" >All</button>
-                <button class="filter-button" data-filter="category1">Our Factory</button>
+                <!--<button class="filter-button" data-filter="category1">Our Factory</button>-->
                 <button class="filter-button" data-filter="category2">Our Products</button>
                 <button class="filter-button" data-filter="category3">Turning Our Products into Finished Goods</button>
             </div>
@@ -988,7 +988,7 @@ Now we are engaged in the production of superior quality Poly Boards, Stiff Boar
                 </a>
             </div>
 
-            <div class="gallery_product col-sm-3 col-xs-6 filter category1">
+           <!-- <div class="gallery_product col-sm-3 col-xs-6 filter category1">
                 <a class="fancybox" rel="ligthbox" href="images/s3.jpg">
                     <img class="img-responsive" alt="" src="images/s3.jpg" />
                     <div class='img-info'>
@@ -996,7 +996,7 @@ Now we are engaged in the production of superior quality Poly Boards, Stiff Boar
                         <p></p>
                     </div>
                 </a>
-            </div>
+            </div>-->
 
             <div class="gallery_product col-sm-3 col-xs-6 filter category2 active">
                 <a class="fancybox active" rel="ligthbox" href="images/b3.jpg">
@@ -1018,7 +1018,7 @@ Now we are engaged in the production of superior quality Poly Boards, Stiff Boar
             </div>
            
 
-            <div class="gallery_product col-sm-3 col-xs-6 filter category1">
+           <!-- <div class="gallery_product col-sm-3 col-xs-6 filter category1">
                 <a class="fancybox" rel="ligthbox" href="images/s4.jpg">
                     <img class="img-responsive" alt="" src="images/s4.jpg" />
                     <div class='img-info'>
@@ -1026,7 +1026,7 @@ Now we are engaged in the production of superior quality Poly Boards, Stiff Boar
                         <p></p>
                     </div>
                 </a>
-            </div>
+            </div>-->
 
             <div class="gallery_product col-sm-3 col-xs-6 filter category2 active">
                 <a class="fancybox active" rel="ligthbox" href="images/b4.jpg">
@@ -1047,7 +1047,7 @@ Now we are engaged in the production of superior quality Poly Boards, Stiff Boar
                     </div>
                 </a>
             </div>
-              <div class="gallery_product col-sm-3 col-xs-6 filter category1">
+            <!--  <div class="gallery_product col-sm-3 col-xs-6 filter category1">
                 <a class="fancybox" rel="ligthbox" href="images/s5.jpg">
                     <img class="img-responsive" alt="" src="images/s5.jpg" />
                     <div class='img-info'>
@@ -1055,7 +1055,7 @@ Now we are engaged in the production of superior quality Poly Boards, Stiff Boar
                         <p></p>
                     </div>
                 </a>
-            </div>
+            </div>-->
 
             <div class="gallery_product col-sm-3 col-xs-6 filter category2 active">
                 <a class="fancybox active" rel="ligthbox" href="images/b5.jpg">
@@ -1814,7 +1814,7 @@ Now we are engaged in the production of superior quality Poly Boards, Stiff Boar
 			<div class="col-md-6 col-sm-6 col-xs-6  bottom-head bottm-grid">
 				<!--<h2 style="font-size: 12px;padding: 20px;margin-left: 40px;"><a href="index.html">Susmit Paper Boards</a></h2>-->
                 <div class="col-md-6 col-sm-6 col-xs-6 one bottm-grid" >
-                <img src="images/logo/logo1.png" width="185%" style="margin-bottom: -38px;margin-top: -33px;margin-left: 20px;" >
+                <img src="images/logo/logo2.png" width="185%" style="margin-bottom: -38px;margin-top: -33px;margin-left: 20px;" >
                 <p style="width: 199%;text-align: left;font-family: Roboto;padding-left: 42px;line-height: 27px;"> Susmit Paper Boards is a creator of all kind of paper boards.</p>
                 <div class="clearfix"></div>
             </div>
