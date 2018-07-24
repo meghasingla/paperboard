@@ -170,6 +170,11 @@ text-justify: auto|inter-word|inter-character|none|initial|inherit;
     text-align: center;
     width: 70px;
 }
+.border {
+    border-style: dashed;
+    color:#c8c8c8;
+     border-width: 1px 1px 1px 1px;
+
 }
 
 </style>
@@ -192,14 +197,14 @@ text-justify: auto|inter-word|inter-character|none|initial|inherit;
 
 						<a class="navbar-brand" href="">
 							<!--<h1 style="padding-top: 28px;padding-left: 48px;">Susmit Paper Boards </h1>-->
-                            <img src="../images/logo5.png" width="25%" style="margin-top: -42px;padding-left: 65px;">
+                            <img src="../images/logo5.png" width="35%" style="margin-top: -95px;padding-left: -4px;">
 						</a>
 					</div>
 
 					<!--/.navbar-header-->
  
 
-					<div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1" style="padding: 10px;margin: 0px;text-align: left;float: right; padding-right: -25px;padding-left: -20px;">
+					<div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1" style="padding: -2px;margin: 0px;text-align: left;float: right; padding-right: -25px;padding-left: -20px;">
 				
 							<ul class="nav navbar-nav">
 								<li><a class="active" href="#">Home</a></li>
@@ -232,7 +237,7 @@ text-justify: auto|inter-word|inter-character|none|initial|inherit;
 			<div class="item active">
 				<div class="container">
 					<div class="carousel-caption">
-                        <h3 style="font-family: Raleway; font-weight:bold;">RECYCLE,<span style="color: #f8831a; "> RECREATE </span> ,REUSE</h3>
+                        <h3 style="font-family: Raleway; font-weight:bold;">RECYCLE,<span style="color: #f8831a; "> RECREATE, </span> REUSE</h3>
 						
 						<p></p>
 						
@@ -242,7 +247,8 @@ text-justify: auto|inter-word|inter-character|none|initial|inherit;
 			<div class="item item2">
 				<div class="container">
 					<div class="carousel-caption" >
-						<h3 style="font-family: Raleway; font-size: 3.5em; font-weight: bold;">Our company is involved in <span style="color: #f8831a"> manufacturing of </span>qualitative Paper Boards.</h3>
+                        <h3 style="font-family: Raleway; font-size: 3.5em; font-weight: bold;">We are the leading <span style="color: #f8831a"> manufacturer of  </span> all kind of paper boards</h3>
+						<!--<h3 style="font-family: Raleway; font-size: 3.5em; font-weight: bold;">Our company is involved in <span style="color: #f8831a"> manufacturing of </span>qualitative Paper Boards.</h3>-->
 						<p></p>
 						
 					</div>
@@ -262,7 +268,7 @@ text-justify: auto|inter-word|inter-character|none|initial|inherit;
 					<div class="carousel-caption">
 
 						<h3 style="font-family: Raleway;font-size: 3.5em; font-weight: bold;"> We provide <span style="color: #f8831a">BEST </span>Products</h3>
-						<p></p>
+						<p>You deserve the best</p>
 						
 					</div>
 				</div>
@@ -278,11 +284,13 @@ text-justify: auto|inter-word|inter-character|none|initial|inherit;
 		</a>
 		<!-- The Modal -->
 	</div>
-
+    
 	<div class="banner-bottom" id="about">
 		<div class="container">
-	<div class="w3-heading-all"><br><br>
+	<div class="w3-heading-all"><br><br><br><br>
+   
 				<h3>About us</h3>
+
 			</div>
 		<br><br>
     <!--<h1 style="font-size: 50px;padding-bottom: 20px;">About Us</h1><br><br>-->
@@ -458,10 +466,9 @@ text-justify: auto|inter-word|inter-character|none|initial|inherit;
               
                     <h1> <span></span></h1>
                     <h4></h4><br><br>&nbsp;&nbsp;
-                    <p style="font-size: 17px;text-align: justify">Susmit Paper Boards is a new version of  <span> &nbsp;Sri Murugan paper boards</span>&nbsp;&nbsp;, a leading manufacturer of all kind of paper boards serving  the market for last three decades under the  supervision <br>of<span>&nbsp;&nbsp;Mr. Karthik Muckharji </span>, a well experienced professional in the industry for more than <br>50 years for all kind of Paper Board manufacturing and machinery erection all over India. Now Susmit Paper Board is driven under the leadership of <span>Mr. Suresh P Nair</span>, a well experienced Team Player with more than<span> 22 years</span> of experience in India and abroad with different manufacturing and Trading establishments with capable experienced hands <span> Jayan Muckharji and Ajayan Muckharji </span>, both are professional successors to this industry. 
-Now we are engaged in the production of superior quality Poly Boards, Stiff Boards, File Boards and Duplex Boards extensively used as Raw material for Diary, Daily Calendars, Book Binding, Cake Base, Gift Box and Jewel Box for domestic and International market.The manufacturing process is 100% Eco Friendly using recycling scrap craft paper both imported and domestic
+                    <p style="font-size: 17px;text-align: justify">Susmit Paper Boards was formed under expert supervision and guidance of   <span> &nbsp;Mr. Karthik Muckharji</span>&nbsp;&nbsp;, a pioneer in the field of Paper Board Manufacturing with more than <span>5 decades of experience</span> in the Industry.Susmit Paper Boards is driven by young & professional team with rich experience in Trading, Manufacturing and International Trade across the globe. We are manufacturer of superior quality <span> Poly Boards, Stiff Boards, File Boards and Duplex Boards </span>extensively used as Raw material for Diaries, Daily Calendars, Book Binding, Cake Base, Gift Box and Jewelry box for Indian, Middle East and African Markets.The manufacturing process is 100% Eco Friendly using recycled scrap wood pulp, craft paper both imported and local. 
 
-</p>
+                    </p>
                 </div>
             </div>    
             </div>
@@ -487,9 +494,14 @@ Now we are engaged in the production of superior quality Poly Boards, Stiff Boar
                 <div class="aboutus-content ">
                     <h1>Susmit Paper <span>Boards</span></h1>
                     <h4></h4><br>
-                    <p style="font-size: 17px;text-align: justify;">Our vision is to run and develop a successful business enterprise with  principles of  Timely and quantitative Supply,  Maintaining consistent quality ,Save Earth by recycling Raw Material and Eco Friendly production keeping a fruitful relationship with our  customer and Suppliers with a common slogan “ Grow us together”. 
- Please feel free to contact us any time in regard to the any further information on the product range as well as any specific needs as per your requirement. 
-</p>
+                    <p style="font-size: 17px;text-align: justify;">
+                        Our vision is to run and develop a successful business enterprise built on principles of Timely delivery, consistent quality, Save Earth by recycling Raw Material and Eco Friendly production. We also want to maintain relationship with our customer and Suppliers with a common slogan  <span>" Let’s Grow Together "</span>.
+                        </p>
+                    <h1> <span>Message</span></h1>
+                    <h4></h4><br>
+                    <p style="font-size: 17px;text-align: justify;">
+                        Please feel free to contact us for any further information on Product range or any of your specific requirement. 
+                    </p>
                 </div>
             </div>    
             </div>
@@ -536,11 +548,15 @@ Now we are engaged in the production of superior quality Poly Boards, Stiff Boar
 	<!--//icons-->
 	<!--//banner-bottom-->
 	<!-- services -->
+    <br>
+        
 	<div class="services" id="services"> 
 		<div class="container"> 
 					<div class="agileits-title"> 
 				<div class="w3-heading-all">
-                    <br><br>
+                    <br><br><br><br>
+                     <div class="border">    
+                    </div>
 				<h3>Our Products</h3>
 			</div>
 				<div class="clearfix"> </div>
@@ -702,7 +718,10 @@ Now we are engaged in the production of superior quality Poly Boards, Stiff Boar
 		<div class="container">
 	<div class="w3-heading-all">
 		<div class="processflow" id="processflow"> 
-            <br><br>
+            <br><br><br><br>
+               <div class="border">
+ 
+</div>
 				<h3>Process Flow</h3>
 			</div>
 
@@ -906,12 +925,18 @@ Now we are engaged in the production of superior quality Poly Boards, Stiff Boar
 	</div>-->
 
 	<!--Gallery-->
+    <br>
 
-<section class="portfolio-w3ls" id="gallery"><br><br>
-       <center>  <h2 class="title-w3-agileits title-black-wthree" style="color:#3d3d3d;font-size: 2em;font-weight: 400px;">Our Gallery</h2></center>
+   
+<section class="portfolio-w3ls" id="gallery">
+   
    
 
-<section class="portfolio" id="portfolio" data-ride="carousel">
+<section class="portfolio" id="portfolio" data-ride="carousel"><br><br><br>
+     <div class="border">
+    </div> 
+    
+       <center>  <h2 class="title-w3-agileits title-black-wthree" style="color:#3d3d3d;font-size: 2em;font-weight: 400px;">Our Gallery</h2></center>
     <div class="container-fluid" >
         <div class="row">
 
@@ -1737,9 +1762,12 @@ Now we are engaged in the production of superior quality Poly Boards, Stiff Boar
 			<div class="clearfix"> </div>
  //Clients -->
 <!-- /contact us --><br>
+
 <div class="contact-w3-agileits w3ls-section jarallax" id="contact">
 		<div class="container">
-		<div class="w3-heading-all"><br><br>
+		<div class="w3-heading-all"><br><br><br>
+             <div class="border">
+            </div>
 				<h3>Contact us For Sample</h3>
 			</div>
 			<div class="col-md-5 col-sm-5 col-xs-12 contact-left-w3ls">				
@@ -1802,6 +1830,7 @@ Now we are engaged in the production of superior quality Poly Boards, Stiff Boar
 				</form>
 			</div>
 			<div class="clearfix"></div>
+           
 		</div>
 	</div>
     <br><br>
