@@ -197,7 +197,7 @@ text-justify: auto|inter-word|inter-character|none|initial|inherit;
 
 						<a class="navbar-brand" href="">
 							<!--<h1 style="padding-top: 28px;padding-left: 48px;">Susmit Paper Boards </h1>-->
-                            <img src="../images/logo5.png" width="35%" style="margin-top: -95px;padding-left: -4px;">
+                            <img src="../images/logo5.png" width="30%" style="margin-top: -67px;padding-left: -4px;">
 						</a>
 					</div>
 
@@ -207,7 +207,7 @@ text-justify: auto|inter-word|inter-character|none|initial|inherit;
 					<div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1" style="padding: -2px;margin: 0px;text-align: left;float: right; padding-right: -25px;padding-left: -20px;">
 				
 							<ul class="nav navbar-nav">
-								<li><a class="active" href="#">Home</a></li>
+								<li><a class="" href="#">Home</a></li>
 								<li><a class="scroll" href="#about" >About</a></li>
 								<li><a class="scroll" href="#services">Products</a></li>
 								<li><a class="scroll" href="#processflow">Process Flow</a></li>
@@ -247,7 +247,7 @@ text-justify: auto|inter-word|inter-character|none|initial|inherit;
 			<div class="item item2">
 				<div class="container">
 					<div class="carousel-caption" >
-                        <h3 style="font-family: Raleway; font-size: 3.5em; font-weight: bold;">We are the leading <span style="color: #f8831a"> manufacturer of  </span> all kind of paper boards</h3>
+                        <h3 style="font-family: Raleway; font-size: 3.5em; font-weight: bold;">Your reliable  <span style="color: #f8831a">business partner </span> for all paper board requirements.</h3>
 						<!--<h3 style="font-family: Raleway; font-size: 3.5em; font-weight: bold;">Our company is involved in <span style="color: #f8831a"> manufacturing of </span>qualitative Paper Boards.</h3>-->
 						<p></p>
 						
@@ -303,7 +303,7 @@ text-justify: auto|inter-word|inter-character|none|initial|inherit;
 
                 <div class="service-icon grey">
                     <div class="front-content">
-                        <i class="fa fa-trophy"></i>
+                        <i class="fa fa-certificate"></i>
 
                         <h3 >SUSMIT PAPER BOARDS</h3>
                     </div>
@@ -313,7 +313,7 @@ text-justify: auto|inter-word|inter-character|none|initial|inherit;
                  <div class="colortext"  >	
                 	
                     <h3 style="background-color: rgb(254,143,1);">SUSMIT PAPER BOARDS</h3>
-                    <p style="color: #fff;">Your reliable business partner for all paper board requirements. </p></div>
+                    <p style="color: #fff;">Leading sundry paper board manufacturer. </p></div>
                 </div>
             </div>
         </div>
@@ -327,7 +327,7 @@ text-justify: auto|inter-word|inter-character|none|initial|inherit;
                 </div>
                 <div class="service-content" >
                     <h3>Manufacturing and Trading </h3>
-                    <p>Leading manufactures and traders serving India and abroad.  </p>
+                    <p>Leading manufactures and traders serving India, Middle East and Africa.  </p>
                 </div>
             </div>
         </div>
@@ -342,7 +342,7 @@ text-justify: auto|inter-word|inter-character|none|initial|inherit;
                 <div class="service-content" style="background-color: rgb(254,143,1);">
                 	<div class="colortext">
                     <h3>PRODUCTION</h3>
-                    <p style="color:#fff;">Engaged in the production of superior quality Poly Boards, Stiff Boards, File Boards and Duplex Boards . </p></div>
+                    <p style="color:#fff;">Engaged in the manufacturer of superior quality Poly Boards, Stiff Boards, File Boards and Duplex Boards . </p></div>
                 </div>
             </div>
         </div>
@@ -356,7 +356,7 @@ text-justify: auto|inter-word|inter-character|none|initial|inherit;
                 </div>
                 <div class="service-content">
                     <h3 >Process </h3>
-                    <p style="font-size: 16px;">The manufacturing process is 100% Eco Friendly using recycling scrap craft paper both imported and domestic.</p>
+                    <p style="font-size: 16px;">The manufacturing process is 100% Eco Friendly using recycled scrap craft paper both imported and local.</p>
                 </div>
             </div>
         </div>
@@ -488,11 +488,11 @@ text-justify: auto|inter-word|inter-character|none|initial|inherit;
         <div class="row">
             <div class="col-xs-12">
             <div class="col-md-4 col-sm-6 col-xs-12">    
-                <div class="aboutus-image float-left hidden-sm"><img src="images/x.jpg" alt=""></div>
+                <div class="aboutus-image float-left hidden-sm"><img src="images/viss.png" alt="" width="90%"></div>
                 </div>
             <div class="col-md-8 col-sm-6 col-xs-12">
                 <div class="aboutus-content ">
-                    <h1>Susmit Paper <span>Boards</span></h1>
+                    <h1> <span></span></h1>
                     <h4></h4><br>
                     <p style="font-size: 17px;text-align: justify;">
                         Our vision is to run and develop a successful business enterprise built on principles of Timely delivery, consistent quality, Save Earth by recycling Raw Material and Eco Friendly production. We also want to maintain relationship with our customer and Suppliers with a common slogan  <span>" Let’s Grow Together "</span>.
@@ -718,12 +718,13 @@ text-justify: auto|inter-word|inter-character|none|initial|inherit;
 		<div class="container">
 	<div class="w3-heading-all">
 		<div class="processflow" id="processflow"> 
-            <br><br><br><br>
+            <br><br><br><br><br><br><br>
                <div class="border">
  
 </div>
 				<h3>Process Flow</h3>
 			</div>
+           
 
   <div class="row">
     <div class="col-lg-12">
@@ -925,17 +926,17 @@ text-justify: auto|inter-word|inter-character|none|initial|inherit;
 	</div>-->
 
 	<!--Gallery-->
-    <br>
+    <br><br><br><br>
 
    
 <section class="portfolio-w3ls" id="gallery">
    
    
 
-<section class="portfolio" id="portfolio" data-ride="carousel"><br><br><br>
+<section class="portfolio" id="portfolio" data-ride="carousel"><br><br><br><br><br>
      <div class="border">
     </div> 
-    
+    <br><br>
        <center>  <h2 class="title-w3-agileits title-black-wthree" style="color:#3d3d3d;font-size: 2em;font-weight: 400px;">Our Gallery</h2></center>
     <div class="container-fluid" >
         <div class="row">
@@ -1768,7 +1769,7 @@ text-justify: auto|inter-word|inter-character|none|initial|inherit;
 		<div class="w3-heading-all"><br><br><br>
              <div class="border">
             </div>
-				<h3>Contact us For Sample</h3>
+				<h3>Contact us For Enquiry</h3>
 			</div>
 			<div class="col-md-5 col-sm-5 col-xs-12 contact-left-w3ls">				
 				<div class="visit">
@@ -1791,7 +1792,8 @@ text-justify: auto|inter-word|inter-character|none|initial|inherit;
 					</div>
 					<div class="col-md-10 col-sm-10 col-xs-10 contact-text-agileinf0">
 						<h4>Mail us</h4>
-						<p><a href="mailto:info@example.com">susmitboards@gmail.com</a></p>
+						<p><a href="mailto:info@example.com">info@susmitboards.com</a></p>
+                        <p><a href="mailto:info@example.com">susmitboards@gmail.com</a></p>
 					</div>
 					<div class="clearfix"></div>
 				</div>
@@ -1818,14 +1820,14 @@ text-justify: auto|inter-word|inter-character|none|initial|inherit;
 				</div>
 			</div>
 			<div class="col-md-7 col-sm-7 col-xs-12 contact-right-w3l">
-				<form action="{{ route('contact') }}" method="post">
+				<form action="{{ route('contact') }}" method="post" >
 					{{ csrf_field() }}
-					<input type="text"  class="name" name="name" placeholder=" Name" required="">
-					<input type="text"  class="lastname" name="lastname" placeholder="Last Name" required="">
+					<input type="text"  class="name" name="name" placeholder=" Name" required="" width="50%"><br>
+					<input type="text"  class="lastname" name="lastname" placeholder="Last Name" required=""><br>
 					<input type="text"  class="Email" name="Email" placeholder="Email" required=""><br>
 					<input type="text"  class="subject" name="subject" placeholder="Subject" required=""><br>
 					<!--<input type="textarea "style="padding: 75px;position: absolute;"  class="message" name="message" placeholder="message" required="">-->
-					<textarea class="messageBody" name="messageBody" placeholder="Message"style="width: 49%" required=""></textarea><br>
+					<textarea class="messageBody" name="messageBody" placeholder="Message"style="width: 64%" required=""></textarea><br>
 					<input type="submit" value="Send ">
 				</form>
 			</div>
@@ -1837,14 +1839,14 @@ text-justify: auto|inter-word|inter-character|none|initial|inherit;
 <!-- //contact us -->
 <!--footer-->
 
-	<div class="footer"style="padding-bottom:-10px;margin-bottom: 0px;">
+	<div class="footer" style="width: 109%;margin-left: -70px;">
 	
 		<div class="container">
 		<div class="colr-row col-md-6  ">
 			<div class="col-md-6 col-sm-6 col-xs-6  bottom-head bottm-grid">
 				<!--<h2 style="font-size: 12px;padding: 20px;margin-left: 40px;"><a href="index.html">Susmit Paper Boards</a></h2>-->
                 <div class="col-md-6 col-sm-6 col-xs-6 one bottm-grid" >
-                <img src="images/logo/logo2.png" width="185%" style="margin-bottom: -38px;margin-top: -33px;margin-left: 20px;" >
+                <img src="images/logo/logo2.png" width="385%" style="margin-bottom: -109px;margin-top: -87px;margin-left: -89px;" >
                 <p style="width: 199%;text-align: left;font-family: Roboto;padding-left: 42px;line-height: 27px;"> Susmit Paper Boards is a creator of all kind of paper boards.</p>
                 <div class="clearfix"></div>
             </div>
@@ -1894,9 +1896,9 @@ text-justify: auto|inter-word|inter-character|none|initial|inherit;
 				<div class="icons">
                     <ul>
                         <li><a href="https://www.facebook.com/boards.susmit"><span class="fa fa-facebook"></span></a></li>
-                        <li><a href="#"><span class="fa fa-twitter"></span></a></li>
+                        <!--<li><a href="#"><span class="fa fa-twitter"></span></a></li>
                         <li><a href="#"><span class="fa fa-rss"></span></a></li>
-                        <li><a href="#"><span class="fa fa-vk"></span></a></li>
+                        <li><a href="#"><span class="fa fa-vk"></span></a></li>-->
                     </ul>
 
                 </div>
@@ -1907,7 +1909,7 @@ text-justify: auto|inter-word|inter-character|none|initial|inherit;
 		</div>
 		</div>
 	</div>
-	<footer>
+	<footer style="width:109%;margin-left: -70px;">
 		<p>&copy;2018 SUSMIT PAPER BOARD. All Rights Reserved | Design by <a href="http://crologic.net/" target="_blank">CROLOGIC SOLUTIONS</a></p>
 	</footer>
 

@@ -26,6 +26,7 @@
                 
                 <p style="font-size:100% ;">If you did not register for our website, please ignore this email.</p>
                 <p style="font-size:150% ;">Thankyou for your Response.</p>
+               <p style="font-size:150% ;"> We'll respond to your message within 24 hours. </p>
                 <p style="font-size:150% ;">
                 REGARDS<br>
                Susmit Paper Boards<br>

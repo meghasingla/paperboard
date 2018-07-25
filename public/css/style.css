@@ -570,11 +570,11 @@ b.fa.fa-caret-right {
 }
 
 .carousel .item.item4 {
-	background: -webkit-linear-gradient(rgba(23, 22, 23, 0.2), rgba(23, 22, 23, 0.5)), url(../images/banner7.jpg) no-repeat;
-	background: -moz-linear-gradient(rgba(23, 22, 23, 0.2), rgba(23, 22, 23, 0.5)), url(../images/banner7.jpg) no-repeat;
-	background: -moz-linear-gradient(rgba(23, 22, 23, 0.2), rgba(23, 22, 23, 0.5)), url(../images/banner7.jpg) no-repeat;
-	background: -ms-linear-gradient(rgba(23, 22, 23, 0.2), rgba(23, 22, 23, 0.5)), url(../images/banner7.jpg) no-repeat;
-	background: linear-gradient(rgba(23, 22, 23, 0.2), rgba(23, 22, 23, 0.5)), url(../images/banner7.jpg) no-repeat;
+	background: -webkit-linear-gradient(rgba(23, 22, 23, 0.2), rgba(23, 22, 23, 0.5)), url(../images/ban32.jpg) no-repeat;
+	background: -moz-linear-gradient(rgba(23, 22, 23, 0.2), rgba(23, 22, 23, 0.5)), url(../images/ban32.jpg) no-repeat;
+	background: -moz-linear-gradient(rgba(23, 22, 23, 0.2), rgba(23, 22, 23, 0.5)), url(../images/ban32.jpg) no-repeat;
+	background: -ms-linear-gradient(rgba(23, 22, 23, 0.2), rgba(23, 22, 23, 0.5)), url(../images/ban32.jpg) no-repeat;
+	background: linear-gradient(rgba(23, 22, 23, 0.2), rgba(23, 22, 23, 0.5)), url(../images/ban32.jpg) no-repeat;
 	background-size: 100% 100%;
 }
 
@@ -1748,21 +1748,22 @@ span.glyphicon.glyphicon-time {
     margin-bottom: 0.5em;
 }
 .contact-left-w3ls p{
-	color:#8d8d8d;
+	color:#0f0d0dcc;
 	font-weight:400;
 	font-size:1em;
 }
 .contact-left-w3ls p a{
-	color:#8d8d8d;
+	color:#0f0d0dcc;
 }
 .contact-right-w3l input[type="text"]{
 	font-size:14px;
-	border:1px solid #d5d3d3;
+	border:1px solid #0f0d0dcc;
 	background:transparent;
 	outline:none;
 	padding:10px;
 	/*width:48.5%;*/
 	margin-bottom:15px;
+	padding-right: 255px;
 }
 .contact-right-w3l input[type="text"]:nth-child(1),.contact-right-w3l input[type="text"]:nth-child(3) {
     margin-right:2.4%;
@@ -1773,7 +1774,7 @@ span.glyphicon.glyphicon-time {
 	outline:none;
 	resize:none;
 	height:100px;
-	border:1px solid #d5d3d3;
+	border:1px solid #0f0d0dcc;
 	font-size:14px;
 }
 .contact-right-w3l input[type="submit"]{
