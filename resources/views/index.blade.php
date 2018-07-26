@@ -721,14 +721,18 @@ text-justify: auto|inter-word|inter-character|none|initial|inherit;
 	<!--//processflow-->
 
 <!------ Include the above in your HEAD tag ---------->
+<br><br><br><br><br> <br><br><br><br><br>
+              <br><br><br><br><br><br><br>
 <div class="banner-bottom" id="about">
 		<div class="container">
 	<div class="w3-heading-all">
-		<div class="processflow" id="processflow"> 
-            <br><br><br><br><br>
-               <div class="border">
+          
+        <div class="border">
  
-        </div><br>
+        </div><br><br><br><br><br><br><br><br><br><br>
+		<div class="processflow" id="processflow"> 
+          <br><br><br><br><br>
+            
 				<!--<h3>Process Flow</h3>-->
                 <img src="images/process3.png" style="background-size:100% 100%;"><br><br>
 			</div>
@@ -935,16 +939,18 @@ text-justify: auto|inter-word|inter-character|none|initial|inherit;
 
 	<!--Gallery-->
    
-
-   
+<br><br><br><br><br><br>
+    <div class="border">
+    </div> 
 <section class="portfolio-w3ls" id="gallery">
    
-   
+  
 
-<section class="portfolio" id="portfolio" data-ride="carousel"><br><br><br>
-     <div class="border">
-    </div> 
-    <br><br>
+<section class="portfolio" id="portfolio" data-ride="carousel">
+    <br><br><br><br>
+      
+   <br><br><br><br>
+  
        <center>  <h2 class="title-w3-agileits title-black-wthree" style="color:#3d3d3d;font-size: 2em;font-weight: 400px;">Our Gallery</h2></center>
     <div class="container-fluid" >
         <div class="row">
@@ -1837,7 +1843,7 @@ text-justify: auto|inter-word|inter-character|none|initial|inherit;
 					<input type="text"  class="Email" name="Email" placeholder="Email" required=""><br>
 					<input type="text"  class="subject" name="subject" placeholder="Subject" required=""><br>
 					<!--<input type="textarea "style="padding: 75px;position: absolute;"  class="message" name="message" placeholder="message" required="">-->
-					<textarea class="messageBody" name="messageBody" placeholder="Message"style="width: 64%" required=""></textarea><br>
+					<textarea class="messageBody" name="messageBody" placeholder="Message"style="width: 69%" required=""></textarea><br>
 					<input type="submit" value="Send ">
 				</form>
 			</div>
@@ -1907,8 +1913,8 @@ text-justify: auto|inter-word|inter-character|none|initial|inherit;
 				<div class="icons">
                     <ul>
                         <li><a href="https://www.facebook.com/boards.susmit"><span class="fa fa-facebook"></span></a></li>
-                        <!--<li><a href="#"><span class="fa fa-twitter"></span></a></li>
-                        <li><a href="#"><span class="fa fa-rss"></span></a></li>
+                        <li><a href="https://sg2plcpnl0050.prod.sin2.secureserver.net:2096/"><img src="images/cppp.png"><span class="fab fa-cpanel"></span></a></li>
+                        <!--<li><a href="#"><span class="fa fa-rss"></span></a></li>
                         <li><a href="#"><span class="fa fa-vk"></span></a></li>-->
                     </ul>
 
