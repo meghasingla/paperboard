@@ -5,7 +5,7 @@
     <body style="background-color: ">
         <div class="text-center">
             <h1>
-                    <img src="{{ $message->embed(public_path().'/images/logsed.png') }}">
+                    <img src="{{ $message->embed(public_path().'/images/emailer.jpg') }}">
 
                      
 

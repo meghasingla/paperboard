@@ -561,9 +561,9 @@ text-justify: auto|inter-word|inter-character|none|initial|inherit;
 		<div class="container"> 
 					<div class="agileits-title"> 
 				<div class="w3-heading-all">
-                    <br><br><br><br>
+                    <br><br>
                      <div class="border">    
-                    </div>
+                    </div><br><br>
 				<h3>Our Products</h3>
 			</div>
 				<div class="clearfix"> </div>
@@ -725,12 +725,12 @@ text-justify: auto|inter-word|inter-character|none|initial|inherit;
 		<div class="container">
 	<div class="w3-heading-all">
 		<div class="processflow" id="processflow"> 
-            <br>
+            <br><br><br><br><br>
                <div class="border">
  
         </div><br>
 				<!--<h3>Process Flow</h3>-->
-                <img src="images/process3.png" style="width: 70%;margin-left: 182px;margin-top: 40px;"><br><br>
+                <img src="images/process3.png" style="background-size:100% 100%;"><br><br>
 			</div>
            
 
@@ -941,7 +941,7 @@ text-justify: auto|inter-word|inter-character|none|initial|inherit;
    
    
 
-<section class="portfolio" id="portfolio" data-ride="carousel"><br><br><br><br><br>
+<section class="portfolio" id="portfolio" data-ride="carousel"><br><br><br>
      <div class="border">
     </div> 
     <br><br>
