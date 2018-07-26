@@ -1897,7 +1897,7 @@ text-justify: auto|inter-word|inter-character|none|initial|inherit;
                             Chikkinapuram, Dharapuram 
                             Tirupur &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;DT, TamilNadu – 638656</p>
 
-                    <p><span class="fa fa-phone icons-left" aria-hidden="true"></span>For Indian Market: <br>&nbsp;&nbsp;&nbsp;&nbsp;+91 9496234910, +91 9287556919<br>&nbsp;&nbsp;&nbsp;&nbsp;For Middle east and African market: <br>&nbsp;&nbsp;&nbsp;+97150 5764839(Dubai)</p>
+                    <p><span class="fa fa-phone icons-left" aria-hidden="true"></span>For Indian Market: <br>&nbsp;&nbsp;&nbsp;&nbsp;+91 9496234910, +91 9287556919<br>&nbsp;&nbsp;&nbsp;&nbsp;For Middle East and African market: <br>&nbsp;&nbsp;&nbsp;+97150 5764839(Dubai)</p>
 
                 </div>
 				<div class="clearfix"></div>
