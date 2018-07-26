@@ -5,7 +5,8 @@
     <body style="background-color: ">
         <div class="text-center">
             <h1>
-                   
+                    <img src="{{ $message->embed(public_path().'/images/logsed.png') }}">
+
                      
 
                 
@@ -13,8 +14,8 @@
         </div>
         <hr>
         <br />
-        <div class="maincontent" style="background-color: #FFF; margin: auto; padding: 20px; width: 450px; border-top: 2px solid #27ae60;
-        border-bottom: 2px solid #27ae60;border-left: 2px solid #27ae60;border-right: 2px solid #27ae60; ">
+        <div class="maincontent" style="background-color: #FFF; margin: auto; padding: 20px; width: 450px; border-top: 2px solid #333;
+        border-bottom: 2px solid #333;border-left: 2px solid #333;border-right: 2px solid #333; ">
             <div class="text-center">
                 <h1>Dear {{{ $name }}},</h1>
                 <p style="font-size:150% ;text-align:left;">Welcome to the SUSMIT PAPER BOARDS family!</p>
