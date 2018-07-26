@@ -729,9 +729,9 @@ text-justify: auto|inter-word|inter-character|none|initial|inherit;
           
         <div class="border">
  
-        </div><br><br><br><br><br><br><br><br><br><br>
+        </div>
 		<div class="processflow" id="processflow"> 
-          <br><br><br><br><br>
+          <br><br><br><br>
             
 				<!--<h3>Process Flow</h3>-->
                 <img src="images/process3.png" style="background-size:100% 100%;"><br><br>
@@ -1913,7 +1913,7 @@ text-justify: auto|inter-word|inter-character|none|initial|inherit;
 				<div class="icons">
                     <ul>
                         <li><a href="https://www.facebook.com/boards.susmit"><span class="fa fa-facebook"></span></a></li>
-                        <li><a href="https://sg2plcpnl0050.prod.sin2.secureserver.net:2096/"><img src="images/cppp.png"><span class="fab fa-cpanel"></span></a></li>
+                        <li><a href="https://sg2plcpnl0050.prod.sin2.secureserver.net:2096/"><img src="images/cpf.png"><span class="fab fa-cpanel"></span></a></li>
                         <!--<li><a href="#"><span class="fa fa-rss"></span></a></li>
                         <li><a href="#"><span class="fa fa-vk"></span></a></li>-->
                     </ul>
