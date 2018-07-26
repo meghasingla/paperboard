@@ -213,6 +213,7 @@ text-justify: auto|inter-word|inter-character|none|initial|inherit;
 								<li><a class="scroll" href="#processflow">Process Flow</a></li>
 								<li><a class="scroll" href="#gallery">Gallery</a></li>
 								<li><a class="scroll" href="#contact" >Contact</a></li>
+
 							</ul>
 						</nav>
 					</div>
@@ -285,47 +286,39 @@ text-justify: auto|inter-word|inter-character|none|initial|inherit;
 		<!-- The Modal -->
 	</div>
     
-	<div class="banner-bottom" id="about">
-		<div class="container">
-	<div class="w3-heading-all"><br><br><br><br>
-   
-				<h3>About us</h3>
-
-			</div>
+<div class="banner-bottom" id="about">
+	<div class="container">
+	   <div class="w3-heading-all"><br><br><br><br>
+                <h3>About us</h3>
+        </div>
 		<br><br>
     <!--<h1 style="font-size: 50px;padding-bottom: 20px;">About Us</h1><br><br>-->
-
-    <div class="row">
-
-        <div class="col-md-3 col-sm-6 ">
-
-            <div class="service-box">
-
-                <div class="service-icon grey">
-                    <div class="front-content">
-                        <i class="fa fa-certificate"></i>
-
-                        <h3 >SUSMIT PAPER BOARDS</h3>
-                    </div>
-                </div>
-
-                <div class="service-content" style="background-color:rgb(254,143,1); ">
-                 <div class="colortext"  >	
-                	
-                    <h3 style="background-color: rgb(254,143,1);">SUSMIT PAPER BOARDS</h3>
-                    <p style="color: #fff;">Leading sundry paper board manufacturer. </p></div>
-                </div>
-            </div>
+            <div class="row">
+                <div class="col-md-3 col-sm-6 ">
+                    <div class="service-box">
+                        <div class="service-icon grey">
+                            <div class="front-content">
+                                <i class="fa fa-certificate"></i>
+                                    <h3 >SUSMIT PAPER BOARDS</h3>
         </div>
-        <div class="col-md-3 col-sm-6 ">
-            <div class="service-box">
-                <div class="service-icon orange">
-                    <div class="front-content">
-                        <i class="fa fa-anchor"></i>
-                        <h3>Manufacturing and Trading </h3>
+             </div>
+                                <div class="service-content" style="background-color:rgb(254,143,1); ">
+                                    <div class="colortext"  >	
+                                            <h3 style="background-color: rgb(254,143,1);">SUSMIT PAPER BOARDS</h3>
+                                                    <p style="color: #fff;margin-top: 34px;">Leading sundry paper board manufacturers and traders. </p>
+                                     </div>
+                                </div>
                     </div>
-                </div>
-                <div class="service-content" >
+                            </div>
+                                        <div class="col-md-3 col-sm-6 ">
+                                                <div class="service-box">
+                                                    <div class="service-icon orange">
+                                                        <div class="front-content">
+                                                            <i class="fa fa-anchor"></i>
+                                                                <h3>Manufacturing and Trading </h3>
+                                        </div>
+                                                </div>
+                                                <div class="service-content" >
                     <h3>Manufacturing and Trading </h3>
                     <p>Leading manufactures and traders serving India, Middle East and Africa.  </p>
                 </div>
@@ -342,7 +335,7 @@ text-justify: auto|inter-word|inter-character|none|initial|inherit;
                 <div class="service-content" style="background-color: rgb(254,143,1);">
                 	<div class="colortext">
                     <h3>PRODUCTION</h3>
-                    <p style="color:#fff;">Engaged in the manufacturer of superior quality Poly Boards, Stiff Boards, File Boards and Duplex Boards . </p></div>
+                    <p style="color:#fff;"> Manufacturer of superior quality Poly Boards, Stiff Boards, File Boards and Duplex Boards . </p></div>
                 </div>
             </div>
         </div>
@@ -448,7 +441,7 @@ text-justify: auto|inter-word|inter-character|none|initial|inherit;
             </div>
         </div>
     </div>-->
-     <div class="banner-bottom" id="about">
+        <div class="banner-bottom" id="about">
 		<div class="container">
 	<!--<div class="w3-heading-all">
 				<h3>Susmit Paper Boards</h3>
@@ -483,12 +476,26 @@ text-justify: auto|inter-word|inter-character|none|initial|inherit;
 				<h3>Our Vision</h3>
 			</div>
 		<br><br>
+      <!--  <div class="col-md-6 course-left wow fadeInLeft" data-wow-delay=".5s">
+            <img src="images/powerlooms.jpg">
+        </div>
+        <div class="col-md-8 course-right wow fadeInRight" data-wow-delay=".5s">
+            <h3></h3>
+            <p  style="font-size: 17px;text-align: justify;float: right;"> Our vision is to run and develop a successful business enterprise built on principles of Timely delivery, consistent quality, Save Earth by recycling Raw Material and Eco Friendly production. We also want to maintain relationship with our customer and Suppliers with a common slogan  <span>" Let’s Grow Together "</span>.</p>
+            <h1> <span>Message</span></h1>
+                    <h4></h4><br>
+                    <p style="font-size: 17px;text-align: justify;">
+                        Please feel free to contact us for any further information on Product range or any of your specific requirement. 
+                    </p>
+        </div>
+
+        <div class="clearfix"></div>-->
 		<div class="aboutus-area">
     <div class="container">
         <div class="row">
             <div class="col-xs-12">
             <div class="col-md-4 col-sm-6 col-xs-12">    
-                <div class="aboutus-image float-left hidden-sm"><img src="images/viss.png" alt="" width="90%"></div>
+                <div class="aboutus-image float-left hidden-sm"><img src="images/logo/viss.png" alt="" ></div>
                 </div>
             <div class="col-md-8 col-sm-6 col-xs-12">
                 <div class="aboutus-content ">
@@ -718,17 +725,18 @@ text-justify: auto|inter-word|inter-character|none|initial|inherit;
 		<div class="container">
 	<div class="w3-heading-all">
 		<div class="processflow" id="processflow"> 
-            <br><br><br><br><br><br><br>
+            <br>
                <div class="border">
  
-</div>
-				<h3>Process Flow</h3>
+        </div><br>
+				<!--<h3>Process Flow</h3>-->
+                <img src="images/process3.png" style="width: 70%;margin-left: 182px;margin-top: 40px;"><br><br>
 			</div>
            
 
-  <div class="row">
+  <!--<div class="row">
     <div class="col-lg-12">
-      <!--<h3 class="text-center">Process Flow</h3>-->
+      <!--<h3 class="text-center">Process Flow</h3>
      
       <ul class="timeline">
         <li>
@@ -926,7 +934,7 @@ text-justify: auto|inter-word|inter-character|none|initial|inherit;
 	</div>-->
 
 	<!--Gallery-->
-    <br><br><br><br>
+   
 
    
 <section class="portfolio-w3ls" id="gallery">
@@ -1804,7 +1812,9 @@ text-justify: auto|inter-word|inter-character|none|initial|inherit;
 					</div>
 					<div class="col-md-10 col-sm-10 col-xs-10 contact-text-agileinf0">
 						<h4>Call us</h4>
-						<p>+91 9496234910 , +91 9287556919  Dubai ( +97150 5764839)</p>
+                        <p><span style="color: #000;">For Indian Market:</span> +91 9496234910, +91 9287556919</p>
+                        <p><span style="color: #000">For Middle east and African market:</span> +97150 5764839(Dubai)</p>
+						
 					</div>
 					<div class="clearfix"></div>
 				</div>
@@ -1839,15 +1849,15 @@ text-justify: auto|inter-word|inter-character|none|initial|inherit;
 <!-- //contact us -->
 <!--footer-->
 
-	<div class="footer" style="width: 109%;margin-left: -70px;">
+	<div class="footer" style="width: 113%; margin-left: -73px;" >
 	
 		<div class="container">
 		<div class="colr-row col-md-6  ">
 			<div class="col-md-6 col-sm-6 col-xs-6  bottom-head bottm-grid">
 				<!--<h2 style="font-size: 12px;padding: 20px;margin-left: 40px;"><a href="index.html">Susmit Paper Boards</a></h2>-->
                 <div class="col-md-6 col-sm-6 col-xs-6 one bottm-grid" >
-                <img src="images/logo/logo2.png" width="385%" style="margin-bottom: -109px;margin-top: -87px;margin-left: -89px;" >
-                <p style="width: 199%;text-align: left;font-family: Roboto;padding-left: 42px;line-height: 27px;"> Susmit Paper Boards is a creator of all kind of paper boards.</p>
+                <img src="images/logo/logo3.png"  style="margin-top: -19px;" >
+                <p style="width: 212%;text-align: left;font-family: Roboto;padding-left: 63px;line-height: 27px;"> Susmit Paper Boards is a creator of all kind of paper boards.</p>
                 <div class="clearfix"></div>
             </div>
                             <!--<h1 style="padding-top: 28px;padding-left: 48px;">Susmit Paper Boards </h1>-->
@@ -1870,6 +1880,7 @@ text-justify: auto|inter-word|inter-character|none|initial|inherit;
                 <li ><a  href="#services">Products</a></li>
                 <li><a  href="#gallery">Gallery</a></li>
                 <li><a href="#contact">Contact</a></li>
+               
             </ul>
         </nav>
 			
@@ -1909,7 +1920,7 @@ text-justify: auto|inter-word|inter-character|none|initial|inherit;
 		</div>
 		</div>
 	</div>
-	<footer style="width:109%;margin-left: -70px;">
+	<footer style="width:112%;margin-left: -70px;">
 		<p>&copy;2018 SUSMIT PAPER BOARD. All Rights Reserved | Design by <a href="http://crologic.net/" target="_blank">CROLOGIC SOLUTIONS</a></p>
 	</footer>
 
