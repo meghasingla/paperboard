@@ -305,7 +305,7 @@ text-justify: auto|inter-word|inter-character|none|initial|inherit;
                                 <div class="service-content" style="background-color:rgb(254,143,1); ">
                                     <div class="colortext"  >	
                                             <h3 style="background-color: rgb(254,143,1);">SUSMIT PAPER BOARDS</h3>
-                                                    <p style="color: #fff;margin-top: 34px;">Leading sundry paper board manufacturers and traders. </p>
+                                                    <p style="color: #fff;margin-top: 34px;">Leading sundry paper board manufacturer and trader. </p>
                                      </div>
                                 </div>
                     </div>
