@@ -1843,7 +1843,7 @@ text-justify: auto|inter-word|inter-character|none|initial|inherit;
 					<input type="text"  class="Email" name="Email" placeholder="Email" required=""><br>
 					<input type="text"  class="subject" name="subject" placeholder="Subject" required=""><br>
 					<!--<input type="textarea "style="padding: 75px;position: absolute;"  class="message" name="message" placeholder="message" required="">-->
-					<textarea class="messageBody" name="messageBody" placeholder="Message"style="width: 69%" required=""></textarea><br>
+					<textarea class="messageBody" name="messageBody" placeholder="Message"style="width: 64%" required=""></textarea><br>
 					<input type="submit" value="Send ">
 				</form>
 			</div>
