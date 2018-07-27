@@ -320,7 +320,7 @@ text-justify: auto|inter-word|inter-character|none|initial|inherit;
                                                 </div>
                                                 <div class="service-content" >
                     <h3>Manufacturing and Trading </h3>
-                    <p>Leading manufactures and traders serving India, Middle East and Africa.  </p>
+                    <p>Leading manufacturer and trader serving India, Middle East and Africa.  </p>
                 </div>
             </div>
         </div>
@@ -1863,7 +1863,7 @@ text-justify: auto|inter-word|inter-character|none|initial|inherit;
 				<!--<h2 style="font-size: 12px;padding: 20px;margin-left: 40px;"><a href="index.html">Susmit Paper Boards</a></h2>-->
                 <div class="col-md-6 col-sm-6 col-xs-6 one bottm-grid" >
                 <img src="images/logo/logo3.png"  style="margin-top: -19px;" >
-                <p style="width: 212%;text-align: left;font-family: Roboto;padding-left: 63px;line-height: 27px;"> Susmit Paper Boards is a creator of all kind of paper boards.</p>
+                <p style="width: 230%;text-align: left;font-family: Roboto;padding-left: 63px;line-height: 27px;"> Susmit Paper Boards specialist for all kind of sundry paper boards.</p>
                 <div class="clearfix"></div>
             </div>
                             <!--<h1 style="padding-top: 28px;padding-left: 48px;">Susmit Paper Boards </h1>-->
@@ -1912,7 +1912,7 @@ text-justify: auto|inter-word|inter-character|none|initial|inherit;
 				<h3>Follow Us</h3>
 				<div class="icons">
                     <ul>
-                        <li><a href="https://www.facebook.com/boards.susmit"><span class="fa fa-facebook"></span></a></li>
+                        <li><a href="https://www.facebook.com/boards.susmit"><img src="images/face.png"><!--<span class="fa fa-facebook"></span>--></a></li>
                         <li><a href="https://sg2plcpnl0050.prod.sin2.secureserver.net:2096/"><img src="images/cpf.png"><span class="fab fa-cpanel"></span></a></li>
                         <!--<li><a href="#"><span class="fa fa-rss"></span></a></li>
                         <li><a href="#"><span class="fa fa-vk"></span></a></li>-->
