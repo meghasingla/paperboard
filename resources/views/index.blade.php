@@ -305,7 +305,7 @@ text-justify: auto|inter-word|inter-character|none|initial|inherit;
                                 <div class="service-content" style="background-color:rgb(254,143,1); ">
                                     <div class="colortext"  >	
                                             <h3 style="background-color: rgb(254,143,1);">SUSMIT PAPER BOARDS</h3>
-                                                    <p style="color: #fff;margin-top: 34px;">Leading sundry paper board manufacturer and trader. </p>
+                                                    <p style="color: #fff;margin-top: 34px;">Susmit provides quality sundry paper boards with very competitive price.</p>
                                      </div>
                                 </div>
                     </div>
@@ -734,7 +734,7 @@ text-justify: auto|inter-word|inter-character|none|initial|inherit;
           <br><br><br><br>
             
 				<!--<h3>Process Flow</h3>-->
-                <img src="images/process3.png" style="background-size:100% 100%;"><br><br>
+                <img src="images/process3.png" style="background-size:100% 100%;width: 100%;"><br><br>
 			</div>
            
 
@@ -1897,13 +1897,13 @@ text-justify: auto|inter-word|inter-character|none|initial|inherit;
 			<div class="colr-row  col-md-6">
 			<div class="col-md-6 col-sm-6 col-xs-6 one bottm-grid" >
 				<h3>Contact us</h3>
-				<div class="addres up-out" style="text-align: left;">
-                    <p><span class="fa fa-map-marker icons-left" aria-hidden="true" ></span>Susmit Paper Boards
-                            Thalavaipattinam &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(PO)
+				<div class="addres up-out" >
+                    <p style="text-align: justify;"><span class="fa fa-map-marker icons-left" aria-hidden="true" ></span>Susmit Paper Boards
+                            Thalavaipattinam (PO)
                             Chikkinapuram, Dharapuram 
-                            Tirupur &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;DT, TamilNadu – 638656</p>
+                            Tirupur DT, TamilNadu – 638656</p>
 
-                    <p><span class="fa fa-phone icons-left" aria-hidden="true"></span>For Indian Market: <br>&nbsp;&nbsp;&nbsp;&nbsp;+91 9496234910, +91 9287556919<br>&nbsp;&nbsp;&nbsp;&nbsp;For Middle East and African market: <br>&nbsp;&nbsp;&nbsp;+97150 5764839(Dubai)</p>
+                    <p style="text-align: justify;"><span class="fa fa-phone icons-left" aria-hidden="true" ></span>For Indian Market:- +91- 9496234910, +91 9287556919 </p><p style="text-align: justify;"><span class="fa fa-phone icons-left" aria-hidden="true" ></span>For Middle East and African market: +97150 5764839(Dubai)</p>
 
                 </div>
 				<div class="clearfix"></div>
