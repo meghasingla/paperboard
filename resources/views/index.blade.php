@@ -734,7 +734,7 @@ text-justify: auto|inter-word|inter-character|none|initial|inherit;
           <br><br><br><br>
             
 				<!--<h3>Process Flow</h3>-->
-                <img src="images/process3.png" style="background-size:100% 100%;width: 100%;"><br><br>
+                <img src="images/process3.png" style="background-size:100% 100%;width: 100%"><br><br>
 			</div>
            
 
@@ -1182,6 +1182,16 @@ text-justify: auto|inter-word|inter-character|none|initial|inherit;
                     </div>
                 </a>
             </div>
+             <div class="gallery_product col-sm-3 col-xs-6 filter category2 active">
+                <a class="fancybox active" rel="ligthbox" href="images/boards.jpg">
+                    <img class="img-responsive active" alt="" src="images/boards.jpg" />
+                    <div class='img-info active'>
+                        <h4>Paper Board</h4>
+                        <p></p>
+                    </div>
+                </a>
+            </div>
+
             
             <!-- <div class="gallery_product col-sm-3 col-xs-6 filter category3">
                 <a class="fancybox" rel="ligthbox" href="images/s5.jpg">
